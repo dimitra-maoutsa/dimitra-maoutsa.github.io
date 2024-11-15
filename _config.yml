@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Dimitra Maoutsa / Personal website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dimitra Maoutsa"
 description              : &description "Postdoctoral researcher on Theoretical and Computational neuroscience"
 url                      : https://dimitra-maoutsa.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
