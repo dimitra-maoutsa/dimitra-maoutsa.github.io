@@ -12,4 +12,4 @@ One week intensive graduate course on Data Science and Machine Learning with Pyt
 
 Co-lecturers: Debsankha Manik, Jana Lasser
 
-[Gitlab repository](https://gitlab.com/di.ma/data-science-course) (_viewable only once you are loged in your gitlab account_)
+[Gitlab repository](https://gitlab.com/di.ma/data-science-course) 
