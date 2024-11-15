@@ -9,7 +9,7 @@ redirect_from:
 
 :construction: Under construction :construction:
 ======
-Hi, you just landed on my under construction personal website!
+Hi, you just landed on my under construction personal website! (_congrats on your sleuthing skills!_) 
 
 
 Briefly, I am a postdoctoral researcher currently working on **Theoretical and Computational neuroscience** with a background on **stochastic dynamics, stochastic analysis, and nonlinear dynamics**.
