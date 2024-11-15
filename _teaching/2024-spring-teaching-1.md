@@ -2,7 +2,7 @@
 title: "Mathematical Models of Neural Systems and Cognitive Functions -- Tutorials"
 collection: teaching
 type: "M.Sc. course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-spring-teaching-1
 venue: "Ludwig Maximilian University of Munich, Graduate School of Systemic
 Neurosciences"
 date: 2024-06
