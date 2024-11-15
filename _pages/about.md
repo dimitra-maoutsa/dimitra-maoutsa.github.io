@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Postdoctoral researcher - Dimitra Maoutsa"
+title: "Postdoctoral researcher"
 author_profile: true
 redirect_from: 
   - /about/
