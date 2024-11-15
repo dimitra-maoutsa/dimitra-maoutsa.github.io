@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dimitra Maoutsa"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Postdoctoral researcher on Theoretical and Computational neuroscience"
   location         : "here"
   employer         : "Technical University of Berlin"
