@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dimitra Maoutsa / Personal website"
+title                    : "Dimitra Maoutsa"
 title_separator          : "-"
 name                     : &name "Dimitra Maoutsa"
 description              : &description "Postdoctoral researcher on Theoretical and Computational neuroscience"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "dimitra-maoutsa"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
