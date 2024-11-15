@@ -8,7 +8,7 @@ date: 2017-05-08
 location: "Göttingen, Germany"
 ---
 
-One week intensive graduate course on Data Science and Machine Learning with Python for G\"ottingen Graduate Center for Neurosciences, Biophysics, and Molecular Biosciences (GGNB) graduate students
+One week intensive graduate course on **Data Science and Machine Learning with Python** for **Göttingen Graduate Center for Neurosciences, Biophysics, and Molecular Biosciences (GGNB)** graduate students
 
 Co-lecturers: Debsankha Manik, Jana Lasser
 
