@@ -4,7 +4,7 @@ collection: teaching
 type: "Research project tutoring"
 permalink: /teaching/2023-spring-teaching-2
 venue: "School of Life Sciences, Technical University of Munich"
-date: 2023-10-01 to 2024-03-30
+date: 2023-10-01
 location: "Munich, Germany"
 ---
 
