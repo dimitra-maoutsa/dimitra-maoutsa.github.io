@@ -222,6 +222,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  mentor:
+    output: true
+    permalink: /:collection/:path/
+  workshops:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
