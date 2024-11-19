@@ -1,6 +1,6 @@
 ---
 title: "Plasticity-driven circuit self-organization on spiking stabilized supralinear networks"
-excerpt: "How different forms of spike-timing dependent plasticity affect the functional properties of spiking SSNs - with Raul Adell Segarra, Dylan Festa, Dimitra Maoutsa  <br/><img src='/images/thumb_raul.png'>"
+excerpt: "How different forms of spike-timing dependent plasticity affect the functional properties of spiking SSNs - **with Raul Adell Segarra, Dylan Festa, Dimitra Maoutsa**  <br/><img src='/images/thumb_raul.png'>"
 collection: portfolio
 ---
 
