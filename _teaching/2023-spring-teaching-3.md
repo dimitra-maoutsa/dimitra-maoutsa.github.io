@@ -2,7 +2,7 @@
 title: "Introduction to Computational Neuroscience -- Tutorials (M.Sc.)"
 collection: teaching
 type: "Tutoring"
-permalink: /teaching/2023-spring-teaching-2
+permalink: /teaching/2023-spring-teaching-3
 venue: "School of Life Sciences, Technical University of Munich"
 date: 2023-10-01
 location: "Munich, Germany"
