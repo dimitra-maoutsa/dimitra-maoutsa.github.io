@@ -3,7 +3,7 @@ title: "Identifying plasticity mechanisms underlying experience-driven adaptatio
 collection: publications
 category: manuscripts 
 permalink: /publication/2024-12-01-multiple-plasticity-rules-10
-excerpt: '.'
+excerpt: ''
 date: 2024-12-01
 venue: '(in preparation)'
 slidesurl: ''
