@@ -11,17 +11,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/   
 
-  - title: "Mentoring experience"
-    url: /mentor/    
-
   - title: "Awards"
     url: /awards/
+
+  - title: "Presentations"
+    url: /talks/   
+
+  - title: "Mentoring experience"
+    url: /mentor/    
 
   - title: "Workshops"
     url: /workshops/
