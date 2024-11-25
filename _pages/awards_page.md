@@ -6,8 +6,8 @@ permalink: /awards/
 
 ## Distinctions and Awards
 
-| Entry            | Month-Year   | Committee                                                    | Amount
-| --------         | ------ | ------------------------------------------------------------ | ---------------
+| Entry            | Month Year   | Committee                                                    | Amount
+| --------         | :------: | ------------------------------------------------------------ | :---------------:
 | [SyNergy Network Travel Grant for Methods in Computational Neuroscience MBL Advanced Research Training course](https://drive.google.com/file/d/1M3LaVJw7pqN28vGHsS0y7d13IfEekf4M/view)    | May 2024   | SyNergy Cluster, Munich Cluster for Systems Neurology | 1000 &euro;                          |
 | [Travel scholarship from Simons Foundation for participating in the Flatiron Software Workshop at the FENS Forum 2024](https://drive.google.com/file/d/1CL-1XL_L4okfUa58vqIFynyE3At1pWFf/view)    | Apr 2024   | Workshop Organisers  | < &infin; |
 | [Financial Award from Simons Foundation for participating in the Methods in Computational Neuroscience MBL Advanced Research Training course] | March 2024   | Marine Biological Laboratory Course directors (Stefano Fusi, Roozbeh Kiani)   | 4100 $
