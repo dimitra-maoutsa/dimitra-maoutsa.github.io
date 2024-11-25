@@ -1,6 +1,10 @@
+---
+layout: single
+title: "Distinctions and Awards"
+permalink: /awards/
+---
+
 ## Distinctions and Awards
-
-
 
 | Entry            | Month-Year   | Committee                                                    | Amount
 | --------         | ------ | ------------------------------------------------------------ | ---------------
