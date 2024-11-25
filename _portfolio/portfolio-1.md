@@ -1,6 +1,6 @@
 ---
 title: "Multiple adaptation mechanisms account for the emergence of prediction error responses in V1"
-excerpt: "We identify possible plasticity mechanisms that explain the adaptation of responses to repeated stimulus presentations and the emergence of prediction error responses in a recurrent circuit model with multiple interneuron sub-types. <br/><img src='/images/linear_response.png'>"
+excerpt: "We identify possible plasticity mechanisms that explain the adaptation of responses to repeated stimulus presentations and the emergence of prediction error responses in a recurrent circuit model with multiple interneuron sub-types. <br/><img src='/images/linear_response_small2.png'>"
 collection: portfolio
 ---
 
