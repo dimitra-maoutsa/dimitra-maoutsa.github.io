@@ -5,3 +5,8 @@ collection: portfolio
 ---
 
 We employ linear response theory to identify design constraints and adaptation mechanisms that explain the differential responses of different interneuron sub-types to contextual and familiarity expectation violations. 
+
+
+<img src='/images/VIP_to_SST_synapse_Weded_delta_planes_schematic_blah.png' alt="Visualised constraints for adaptation" sizes="(max-width: 100px) 100px, 50vw">
+
+
