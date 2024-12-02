@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Postdoctoral researcher"
+title: "Postdoctoral researcher "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-:construction: This website is partly under construction :construction:
+:construction: This website is partly under construction :construction: $${\color{white}Dimitra Maoutsa}$$
 ======
 Hi, I am a postdoctoral researcher currently working on **Theoretical and Computational neuroscience** with a background on **stochastic dynamics, stochastic analysis, and nonlinear dynamics**.
 
