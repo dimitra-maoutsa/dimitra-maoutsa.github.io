@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-:construction: This website is partly under construction :construction: $${\color{white}Dimitra Maoutsa}$$
+:construction: This website is partly under construction :construction: 
 ======
 Hi, I am a postdoctoral researcher currently working on **Theoretical and Computational neuroscience** with a background on **stochastic dynamics, stochastic analysis, and nonlinear dynamics**.
 
