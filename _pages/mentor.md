@@ -14,4 +14,4 @@ and here is his [presentation](https://drive.google.com/file/d/111LEU1VtoUKUwI3W
 - **Pablo Crespo**:
 
 
--**Raul Adell Segarra**:
+- **Raul Adell Segarra**:
