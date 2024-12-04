@@ -21,8 +21,8 @@ low-dimensional representations in the neural space. Here is one of the posters 
 
 
 - **Raul Adell Segarra**: **Master’s thesis student** ( Erasmus exchange student from the Advanced Mathematics and Mathematical Engi-
-neering program of the Technical University of Catalonia, Spain ). Co-supervised with Dr. Dylan Festa, Raul explored the dynamics
-of spike timing-dependent plasticity on spiking stabilised supralinear networks (Nonlinear Hawkes Networks) through both numerical simulations and analytical calculations. Here is one of the posters Raul presented [Bernstein Conference 2024](https://www.world-wide.org/bernstein-24/plasticity-driven-circuit-self-organization-afecdc22/). 
+neering program of the Technical University of Catalonia, Spain ). Co-supervised with Dr. Dylan Festa, Raul explored the **dynamics
+of spike timing-dependent plasticity on spiking stabilised supralinear networks** (Nonlinear Hawkes Networks) through both numerical simulations and analytical calculations. Here is one of the posters Raul presented [Bernstein Conference 2024](https://www.world-wide.org/bernstein-24/plasticity-driven-circuit-self-organization-afecdc22/). 
  **[completed: Sep. 2023 - May 2024]** 
 
 
