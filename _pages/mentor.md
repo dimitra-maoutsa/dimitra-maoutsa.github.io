@@ -25,4 +25,4 @@ neering program of the Technical University of Catalonia, Spain ). Co-supervised
 of spike timing-dependent plasticity on spiking stabilised supralinear networks** (Nonlinear Hawkes Networks) through both numerical simulations and analytical calculations. Here is one of the posters Raul presented [Bernstein Conference 2024](https://www.world-wide.org/bernstein-24/plasticity-driven-circuit-self-organization-afecdc22/), and here is his [thesis](https://upcommons.upc.edu/handle/2117/408858). 
  **[completed: Sep. 2023 - May 2024]** 
 
-
+- **Introduction to Computational Neuroscience group projects**: Solely directed and mentored **6 groups** (2-3 students each) in executing practical research projects that served as their final evaluation for the lecture Introduction to Computational Neuroscience. More details [here](https://dimitra-maoutsa.github.io/teaching/2023-spring-teaching-2) **[completed: Nov. 2023 - Mar 2024]** 
