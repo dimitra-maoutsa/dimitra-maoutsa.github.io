@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<p align="justify">
 I am a postdoctoral researcher currently working on **Theoretical and Computational neuroscience** with a background on **stochastic dynamics, stochastic analysis, and nonlinear dynamics**.
 
 I completed my PhD under the mentorship of **Prof. Manfred Opper** in _March 2023_ at the Technical University of Berlin and under close colaboration with the Institute of Mathematics at the University of Potsdam. There by drawing insights from machine learning, statistical learning theory and statistical physics, we developed three frameworks for efficient **sampling, control, and inference of overdamped Langevin dynamics** ( [Maoutsa, Reich, Opper; Entropy; 2020](https://www.mdpi.com/1099-4300/22/8/802), [Maoutsa, Opper; MLPS-NeurIPS; 2021](https://arxiv.org/abs/2110.13020), [Maoutsa, Opper; PRRev; 2022](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035), [Maoutsa; MLPS-NeurIPS; 2022](https://arxiv.org/abs/2301.08102), [Maoutsa; Physics4ML-ICLR; 2023](https://arxiv.org/abs/2304.00423) ).
@@ -24,7 +24,7 @@ I made a short stint of ~1 year at the **Computation in Neural Circuits** (Gjorg
 
 ( For more details see [mentoring](https://dimitra-maoutsa.github.io/mentor/) and [projects](https://dimitra-maoutsa.github.io/portfolio/) )
 
-
+</p>
 If you want to know more about my recent work please go [here](https://dimitra-maoutsa.github.io/portfolio/). 
 
 You can also visit my older (unupdatable) website [here](https://dimitra-maoutsa.gitlab.io/) - _keep in mind that it has not been updated after I finished my PhD and I no longer have access to it_.
