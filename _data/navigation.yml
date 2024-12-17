@@ -7,6 +7,11 @@
     
 #  - title: "Guide"
 #    url: /markdown/
+# - title: "Workshops"
+#    url: /workshops/
+#- title: "Presentations"
+ #   url: /talks/   
+
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
@@ -24,13 +29,9 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Presentations"
-    url: /talks/   
-
   - title: "Mentoring experience"
     url: /mentor/    
 
-  - title: "Workshops"
-    url: /workshops/
+  
         
  
