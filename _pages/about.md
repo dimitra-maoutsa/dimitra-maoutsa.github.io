@@ -17,11 +17,11 @@ Before my PhD, I worked in the **Network Dynamics** (Timme) group at the **Max P
 
 I made a short stint of ~1 year at the **Computation in Neural Circuits** (Gjorgjieva) lab within the **School of Life Sciences** at Technical University of Munich working on topics relating **structure and function of neural circuits**. During that time I worked on identifying potential circuit mechanisms and design constraints that explain the differential representation of familiar and novel stimuli in layer 2/3 mouse V1, and (co-)supervised **three Master’s students** working on: 
 
- - identifying biologically plausible plasticity rules for learning tasks with low-dimensional representations in the neuronal activity space, 
+ - identifying **biologically plausible plasticity rules** for learning tasks with **low-dimensional representations** in the neuronal activity space, 
 
- - investigating functional properties of different spike-timing dependent plasticity rules on nonlinear Hawkes networks,  
+ - investigating **functional properties** of different **spike-timing dependent plasticity rules** on nonlinear Hawkes networks,  
 
- - revealing structural and functional properties of brain circuits from their responses to optogenetic stimulation.
+ - revealing **structural and functional properties** of brain circuits from their **responses to optogenetic stimulation**.
 
 ( For more details see [mentoring](https://dimitra-maoutsa.github.io/mentor/) and [projects](https://dimitra-maoutsa.github.io/portfolio/) )
 
