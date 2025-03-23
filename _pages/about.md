@@ -32,7 +32,7 @@ You can also visit my older (unupdatable) website [here](https://dimitra-maoutsa
 My e-mail:  dimitra.maoutsa (ατ) gmail.com
 
 
-[_](https://pure.mpg.de/cone/persons/resource/persons238426?lang=de)
+[.](https://pure.mpg.de/cone/persons/resource/persons238426?lang=de)
 
 
 
@@ -42,7 +42,7 @@ My e-mail:  dimitra.maoutsa (ατ) gmail.com
 
 [_](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/master/googlef44ac06ac32b8302.html)
 
-[_](https://ui.adsabs.harvard.edu/abs/2016APS..MARY12004T/abstract)
+[.](https://ui.adsabs.harvard.edu/abs/2016APS..MARY12004T/abstract)
 
 
 
