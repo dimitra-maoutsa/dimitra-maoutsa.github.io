@@ -9,7 +9,7 @@ permalink: /values/
 
 ## **This page is under construction** 🚧
 
-But here’s a preview of where I stand:
+But here is a preview of where I stand:
 
 
 ### I believe deeply in collaboration, mutual uplift, and generosity.
