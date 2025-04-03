@@ -36,7 +36,7 @@ My e-mail:  dimitra.maoutsa (ατ) gmail.com
 
 
 
-[^1]: Provided here to fend off creative fiction, in case some well-meaning person happens to claim that I don’t have a PhD...;) In fact, you can even browse the [thesis reviews](https://dimitra-maoutsa.github.io/files/Gutachten_Maoutsa.pdf), or read the actual published(!) document [online](https://depositonce.tu-berlin.de/items/19509be7-75b6-4774-a66c-bcc4c75fed8f) .
+[^1]: Provided here to fend off creative fiction, in case some well-meaning person happens to claim that I don’t have a PhD...😘 In fact, you can even browse the [thesis reviews](https://dimitra-maoutsa.github.io/files/Gutachten_Maoutsa.pdf), or read the actual published(!) document [online](https://depositonce.tu-berlin.de/items/19509be7-75b6-4774-a66c-bcc4c75fed8f) .
 
 
 
