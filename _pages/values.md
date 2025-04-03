@@ -1,3 +1,12 @@
+---
+layout: single
+title: "Values"
+permalink: /values/
+---
+
+
+
+
 ## **This page is under construction** 🚧
 
 But here’s a preview of where I stand:
