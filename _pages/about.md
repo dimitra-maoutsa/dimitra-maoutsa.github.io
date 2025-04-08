@@ -25,11 +25,11 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024) at the **Computation in
 
 ( For more details see [mentoring](https://dimitra-maoutsa.github.io/mentor/) and [projects](https://dimitra-maoutsa.github.io/portfolio/) )
 
-
-If you want to know more about my recent work please go [here](https://dimitra-maoutsa.github.io/portfolio/)[.](https://dimitra-maoutsa.github.io/portfolio/portfolio-1/)
+If you want to know more about my recent work please go [here](https://dimitra-maoutsa.github.io/portfolio/)[.](https://dimitra-maoutsa.github.io/portfolio/portfolio-1/) 
 
 You can also visit my older (unupdatable) website [here](https://dimitra-maoutsa.gitlab.io/) - _keep in mind that it has not been updated after I finished my PhD and I no longer have access to it_[.](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/master/googlef44ac06ac32b8302.html)
 
+[Where I stand](https://dimitra-maoutsa.github.io/values/)
 
 My e-mail:  dimitra.maoutsa (ατ) gmail.com
 
