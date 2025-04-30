@@ -27,7 +27,7 @@ author:
   bio              : "Postdoctoral researcher on Theoretical and Computational neuroscience"
   location         : "here"
   employer         : "Technical University of Berlin"
-  uri              : "https://dimitra-maoutsa.github.io/M-Dims-Blog/"
+  uri              : 
   email            : "dimitra.maoutsa@gmail.com" 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3553-8658"
   semantic         : # URL
-  pubmed           : 
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -60,7 +60,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : "https://neuromatch.social/@_dim_ma_"# URL
-  medium           : # URL
+  medium           : "https://dimitra-maoutsa.github.io/M-Dims-Blog/"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
