@@ -18,6 +18,6 @@ But here is a preview of where I stand:
 
 More soon...
 
-But you may get some hint by going here [https://clearsky.app/dimma.bsky.social/blocking](https://clearsky.app/dimma.bsky.social/blocking) and scrolling all the way down :wink:
+But you may get some hint by going here [https://clearsky.app/dimma.bsky.social/blocking](https://clearsky.app/dimma.bsky.social/blocking) and scrolling all the way down :bomb:
 
 
