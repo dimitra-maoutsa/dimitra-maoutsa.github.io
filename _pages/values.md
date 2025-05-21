@@ -7,7 +7,7 @@ permalink: /values/
 
 
 
-## **This page is under construction** 🚧
+🚧 ## **This page is under construction** 🚧
 
 But here is a preview of where I stand:
 
