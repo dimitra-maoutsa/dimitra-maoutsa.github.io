@@ -1,3 +1,12 @@
+---
+layout: single
+title: "Other"
+permalink: /other/
+---
+
+
+
+
 ## Other useful information
 
 ### Code
