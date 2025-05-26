@@ -32,7 +32,7 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024) at the **Computation in
 |             |          |
 |-----------------------------|-----------------------|
 | To get to know more about my recent work | [go here](https://dimitra-maoutsa.github.io/portfolio/)  |
-| To read my blog         | [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/) / [about](https://dimitra-maoutsa.github.io/M-Dims-Blog/about.html) | [here](https://dimitra-maoutsa.gitlab.io/)
+| To read my blog         | [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/) / [about](https://dimitra-maoutsa.github.io/M-Dims-Blog/about.html)|
 | To see my older work   | [here](https://dimitra-maoutsa.gitlab.io/)             |
 | To read about my values | [Where I stand](https://dimitra-maoutsa.github.io/values/) |
 | To contact me|  dimitra.maoutsa (ατ) gmail.com |
