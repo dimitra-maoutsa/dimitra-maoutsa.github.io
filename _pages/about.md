@@ -39,6 +39,33 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024) at the **Computation in
 
 
 
+<table style="border-collapse: collapse; width: 100%; margin-top: 2em;">
+  <tr>
+    <td style="border: none; padding: 0.5em;">To get to know more about my recent work</td>
+    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/portfolio/">go here</a></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0.5em;">To read my blog</td>
+    <td style="border: none; padding: 0.5em;">
+      <a href="https://dimitra-maoutsa.github.io/M-Dims-Blog/">here</a> /
+      <a href="https://dimitra-maoutsa.github.io/M-Dims-Blog/about.html">about</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0.5em;">To see my older work</td>
+    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.gitlab.io/">here</a></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0.5em;">To read about my values</td>
+    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/values/">Where I stand</a></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0.5em;">To contact me</td>
+    <td style="border: none; padding: 0.5em;">dimitra.maoutsa (ατ) gmail.com</td>
+  </tr>
+</table>
+
+
 [^1]: Provided here to fend off creative fiction, in case some well-meaning person happens to claim that I don’t have a PhD...😘 In fact, you can even browse the [thesis reviews](https://dimitra-maoutsa.github.io/files/Gutachten_Maoutsa.pdf), or read the actual published(!) document [online](https://depositonce.tu-berlin.de/items/19509be7-75b6-4774-a66c-bcc4c75fed8f) .
 
 
