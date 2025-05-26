@@ -37,5 +37,8 @@ main:
 
   - title: "(Eigen)Values"
     url: /values/
+
+  - title: "Other"
+    url: /other/
         
  
