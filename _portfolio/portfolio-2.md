@@ -16,5 +16,5 @@ and the presentation we gave at a group retreat on April 2024 altogether here: [
 
 
 
-[^1]: If someone tries to imply that I didn't participate in this retreat, please read [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Not_in_photo.html)
+[^1]: Since I know that someone tries to imply that I didn't participate in this retreat, please read more [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Not_in_photo.html) if you care.
 
