@@ -34,4 +34,4 @@ If you are not a member you should become one [ALBA](https://www.alba.network/)
 
 ### Serotonin releasers
 
-The most magnificent cat in existence [Comaneci](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/20250327_151412.jpg)
+The most magnificent cat in existence :heart_eyes_cat: [Comaneci](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/20250327_151412.jpg) [more Comaneci](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/master/images/coma.jpg) 
