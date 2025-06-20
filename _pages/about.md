@@ -51,6 +51,10 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024) at the **Computation in
     <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/values/">Where I stand</a></td>
   </tr>
   <tr>
+    <td style="border: none; padding: 0.5em;">To read random stuff</td>
+    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/other/">Other</a></td>
+  </tr>
+  <tr>
     <td style="border: none; padding: 0.5em;">To contact me</td>
     <td style="border: none; padding: 0.5em;">dimitra.maoutsa (ατ) gmail.com</td>
   </tr>
@@ -59,11 +63,6 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024) at the **Computation in
 
 [^1]: Provided here to fend off creative fiction, in case some well-meaning person happens to claim that I don’t have a PhD...😘 In fact, you can even browse the [thesis reviews](https://dimitra-maoutsa.github.io/files/Gutachten_Maoutsa.pdf), or read the actual published(!) document [online](https://depositonce.tu-berlin.de/items/19509be7-75b6-4774-a66c-bcc4c75fed8f) .
 [^2]: And no corrections.
-
-
-
-
-
 
 
 
