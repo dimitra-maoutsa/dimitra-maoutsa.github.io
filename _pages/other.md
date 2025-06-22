@@ -35,6 +35,7 @@ If you are not a member you should become one [ALBA](https://www.alba.network/)
 ### Early career researchers you should support
 
 - [Alice Dauphin](https://gehirnforschung.at/member/alice-dauphin/) : Currently a PhD student with Wolfgang Maass, she supervised a Bachelor’s project based on her own idea to pre-train deep networks with retinal waves, while still an **early PhD student** at the **MPI for Brain Research**. The work was accepted at [Cosyne 2023](https://static1.squarespace.com/static/6102ca347474c263c40150cd/t/640b6dddade84c6e64d09bdd/1678470629682/Cosyne2023_program_book.pdf) and later became this preprint: [fortunately not this](https://www.biorxiv.org/content/10.1101/2024.06.15.599143v1?versioned=true) but [this](https://www.biorxiv.org/content/10.1101/2024.06.15.599143v2). Circumstances led her change universities to continue her PhD.
+- [Shuai Shao](https://scholar.google.com/citations?hl=en&user=M5KlS1lnQn8C&view_op=list_works&sortby=pubdate)
 
 
 
