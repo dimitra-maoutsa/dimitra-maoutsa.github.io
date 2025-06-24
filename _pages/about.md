@@ -38,13 +38,13 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024) at the **Computation in
   <tr>
     <td style="border: none; padding: 0.5em;">To read my blog</td>
     <td style="border: none; padding: 0.5em;">
-      <a href="https://dimitra-maoutsa.github.io/M-Dims-Blog/">here</a> /
+      <a href="https://dimitra-maoutsa.github.io/M-Dims-Blog/">the blog</a> /
       <a href="https://dimitra-maoutsa.github.io/M-Dims-Blog/about.html">about</a>
     </td>
   </tr>
   <tr>
     <td style="border: none; padding: 0.5em;">To see my older work</td>
-    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.gitlab.io/">here</a></td>
+    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.gitlab.io/">old website</a></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0.5em;">To read about my values</td>
