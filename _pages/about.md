@@ -51,8 +51,8 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024) at the **Computation in
     <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/values/">Where I stand</a></td>
   </tr>
   <tr>
-    <td style="border: none; padding: 0.5em;">To read random stuff</td>
-    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/other/">Other</a></td>
+    <td style="border: none; padding: 0.5em;">To read about other random but intresting stuff</td>
+    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/other/"> >>>Other<<< </a></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0.5em;">To contact me</td>
