@@ -11,7 +11,7 @@ for infering biologically-plausible plasticity rules that imprint these low-dime
 
 
 You can see the poster that Pablo presented at Bernstein conference 2024: [poster](https://www.world-wide.org/bernstein-24/shaping-low-rank-recurrent-neural-9e3c69df/)
-and the presentation we gave at a group retreat on April 2024 altogether here: [presentation](https://docs.google.com/presentation/d/1oDrFxc2aCzDteNMSVGniCC7XufMFvoZB/edit?usp=share_link&ouid=118137270217997530927&rtpof=true&sd=true) [^1]. Here is the cover of Pablo's thesis [cover](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/master/images/Pablo_cover.png), please contact me or Pablo directly if you would like to read it, and in case someone claims otherwise, here is the history of the overleaf file [history screenshot](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/master/images/history_Pablo_thesis.png)
+and the presentation we gave at a group retreat on April 2024 altogether here: [presentation](https://docs.google.com/presentation/d/1oDrFxc2aCzDteNMSVGniCC7XufMFvoZB/edit?usp=share_link&ouid=118137270217997530927&rtpof=true&sd=true) [^1]. Here is the cover of Pablo's thesis [cover](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/master/images/Pablo_cover.png), (please contact me or Pablo directly if you would like to read it), and in case someone claims otherwise, here is the history of the overleaf file [history screenshot](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/master/images/history_Pablo_thesis.png)
 
 
 
