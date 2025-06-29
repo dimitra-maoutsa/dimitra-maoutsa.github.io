@@ -28,6 +28,10 @@
 @import "footer";
 @import "syntax";
 
+.page__content {
+  max-width: 1000px;
+}
+
 @import "forms";
 
 @import "page";
