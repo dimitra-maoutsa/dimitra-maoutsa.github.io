@@ -16,21 +16,21 @@ Or you can directly go to my github profile: [github](https://github.com/dimitra
 
 ### Reviewing roles
 
-**Journals:** Plos Computational Biology, Physical Review Letters, JPhys Complexity, Transactions on Machine Learning Research, Entropy
+**Journals:**  Plos Computational Biology, Physical Review Letters, JPhys Complexity, Transactions on Machine Learning Research, Entropy
 **Conferences:** 
-Neural Information Processing Systems (NeurIPS 2023 \& 2025),
-International Conference on Learning Representations (ICLR 2024),
-International Conference on Machine Learning (ICML 2024 \& 2025),
-NeurIPS - UniReps: Workshop on Unifying Representations in Neural Models (2024),
-Annual AAAI Conference on Artificial Intelligence (AAAI 2025) (also Program Committee member),
-NeurIPS - Machine Learning for Physical Sciences workshop (2021 \& 2022 \& 2024),
-ICML - Topological, Algebraic, and Geometric Learning workshop (2022 \& 2023),
-ICML - Synergy of Scientific and Machine Learning Modeling (2023),
-ICML - Structured Probabilistic Inference \& Generative Modeling workshop (2023),
-ICML - LatinX in AI (LXAI) Workshop (2023),
-ICLR 2023 \& 2024 - Tiny Papers,
-ICLR 2025 - Workshop on Machine Learning Multiscale Processes,
- Sampling Theory and Applications (SampTA 2023),
+Neural Information Processing Systems (NeurIPS 2023 \& 2025);
+International Conference on Learning Representations (ICLR 2024);
+International Conference on Machine Learning (ICML 2024 \& 2025);
+NeurIPS - UniReps: Workshop on Unifying Representations in Neural Models (2024);
+Annual AAAI Conference on Artificial Intelligence (AAAI 2025) (also Program Committee member);
+NeurIPS - Machine Learning for Physical Sciences workshop (2021 \& 2022 \& 2024);
+ICML - Topological, Algebraic, and Geometric Learning workshop (2022 \& 2023);
+ICML - Synergy of Scientific and Machine Learning Modeling (2023);
+ICML - Structured Probabilistic Inference \& Generative Modeling workshop (2023);
+ICML - LatinX in AI (LXAI) Workshop (2023);
+ICLR 2023 \& 2024 - Tiny Papers;
+ICLR 2025 - Workshop on Machine Learning Multiscale Processes,;
+ Sampling Theory and Applications (SampTA 2023);
 5th~\&~6th~\&~7th Symposium on Advances in Approximate Bayesian Inference (AABI)
 
 
