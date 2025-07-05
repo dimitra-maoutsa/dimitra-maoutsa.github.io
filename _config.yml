@@ -35,6 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=yAsW_icAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3553-8658"
+  medium           : "https://dimitra-maoutsa.github.io/M-Dims-Blog/"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -60,7 +61,6 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : "https://neuromatch.social/@_dim_ma_"# URL
-  medium           : "https://dimitra-maoutsa.github.io/M-Dims-Blog/"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
