@@ -14,7 +14,7 @@ permalink: /values/
 
 ### I have  no respect  for those who approach life with a scarcity mindset, who sabotage competition, or worse, abuse positions of power to undermine, exploit, and silence[^1] those they are meant to support.
 
-### I admire people with a spine, those who are willing to be disliked rather than compromise their values. I feel very sorry for those still looking for one, choosing comfort over integrity and approval over principle.
+### I admire people with a spine, those who are willing to be disliked rather than compromise their values. I feel sorry for those still looking for one, choosing comfort over integrity and approval over principle.
  
 
 [^1]: You may get some hint by going here [https://clearsky.app/dimma.bsky.social/blocking](https://clearsky.app/dimma.bsky.social/blocking) and scrolling all the way down. Then try looking at past Bernstein conferences and workshops ~2015.
