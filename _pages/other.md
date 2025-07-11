@@ -61,7 +61,8 @@ ICML - LatinX in AI (LXAI) Workshop (2023)\
 ICLR 2023 & 2024 - Tiny Papers\
 ICLR 2025 - Workshop on Machine Learning Multiscale Processes\
  Sampling Theory and Applications (SampTA 2023)\
-5th & 6th & 7th Symposium on Advances in Approximate Bayesian Inference (AABI)
+5th & 6th & 7th Symposium on Advances in Approximate Bayesian Inference (AABI)\
+Neural Information Processing Systems Ethics reviews (2025)
 
 
 
