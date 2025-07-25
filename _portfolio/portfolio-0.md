@@ -1,6 +1,6 @@
 ---
 title: "Continual learning in RNNs"
-excerpt: "started in Methods for Computational Neuroscience 2024 Summer School  <b>with collaborators that I will reveal later</b>  <br/><img src='/images/Continual_fixed_point_structure.png' alt='Continual learning in RNNs-Dimitra Maoutsa'>"
+excerpt: "started in Methods for Computational Neuroscience 2024 Summer School  <b>- with collaborators that I will reveal later</b>  <br/><img src='/images/Continual_fixed_point_structure.png' alt='Continual learning in RNNs-Dimitra Maoutsa'>"
 collection: portfolio
 ---
 
