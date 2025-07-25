@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-
+More info sooooon....
 <img src='/images/Continual_fixed_point_structure.png' alt="Continual learning in RNNs- Dimitra Maoutsa" style="max-width:600px; width:100%;" >
 
 
