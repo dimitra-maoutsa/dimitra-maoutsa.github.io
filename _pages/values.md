@@ -16,7 +16,7 @@ permalink: /values/
 
 Unfortunately, over the past years, I’ve learned that integrity isn’t always welcomed, but it’s the only way I know to move forward.
 
-### I am in general VERY resistant to any form of intimidation. Anyone who wants to influence my judgement and my perspective should only try to reason. Everything else just backfires. Speaking from experience. ;)
+### I am in general VERY resistant to any form of intimidation or power flexing. Anyone who wants to influence my judgement and my perspective should only try to reason. Everything else just backfires. Speaking from experience. ;)
 
 [^1]: You may get some hint by going here [https://clearsky.app/dimma.bsky.social/blocking](https://clearsky.app/dimma.bsky.social/blocking) and scrolling all the way down. Then try looking at past Bernstein conferences and workshops ~2015.
 
