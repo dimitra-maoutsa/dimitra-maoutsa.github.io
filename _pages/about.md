@@ -19,7 +19,7 @@ Before my PhD, I worked in the **Network Dynamics** (Timme) group at the **Max P
 
 I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] at the **Computation in Neural Circuits** lab within the **School of Life Sciences** at Technical University of Munich working on topics relating **structure and function of neural circuits**. During that time I worked on identifying potential circuit mechanisms and design constraints that explain the differential representation of familiar and novel stimuli in layer 2/3 mouse V1 [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-1/)], and (co-)supervised **three Master’s students** working on: 
 
- - identifying **biologically plausible plasticity rules** for learning tasks with **low-dimensional representations** in the neuronal activity space [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/)], 
+ - identifying **biologically plausible plasticity rules** for learning tasks with **low-dimensional representations** in the neuronal activity space [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/)], [ important to read ](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/master/images/three_factor_rule.png)
 
  - investigating **functional properties** of different **spike-timing dependent plasticity rules** on nonlinear Hawkes networks [[see more](https://www.world-wide.org/bernstein-24/plasticity-driven-circuit-self-organization-afecdc22/)],  
 
