@@ -15,6 +15,8 @@ and the presentation we gave at a group retreat on April 2024 altogether here: [
 
 Here is the cover of Pablo's thesis [cover](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/Pablo_cover.png), (please contact me or Pablo directly if you would like to read it), and in case someone claims otherwise, here is the history of the overleaf file [history screenshot](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/history_Pablo_thesis.png).
 
+[ important to read ](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html)
+
 
 
 
