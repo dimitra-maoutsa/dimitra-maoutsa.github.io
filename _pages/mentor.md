@@ -32,3 +32,7 @@ of spike timing-dependent plasticity on spiking stabilised supralinear networks*
 
 - **Neuromatch Academy NeuroAI summer school**: Mentored four groups on their research projects. Two groups working on **biologically informed network architectures** for robotic control, and two on **biologically plaussible learning algorithms**. \
  **[completed: July 2025]**
+
+- **Sahar Hoseinzade, Mohammad Jalili**: Modelling and data analysis project on the influence of **attention and reward** on the emer-
+gence of prediction errors in V1 based on the Allen Institute Calcium imaging behaviour dataset.\
+**[Oct. 2024 - Apr. 2025]** 
