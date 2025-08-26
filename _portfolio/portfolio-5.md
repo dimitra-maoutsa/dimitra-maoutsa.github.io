@@ -15,4 +15,4 @@ and to approximate this scaffold in terms of **distortions of a metric induced b
 This effectivelly approximates the low-dimensional invariant density without the need to project to a lower dimensional space (whose dimensionality would be hard to
 estimate due to the presence of fluctuations). 
 
-This is the last part of my PhD thesis and the first single author paper I wrote.
+**This is the last part of my PhD thesis and the first single author paper I wrote.**
