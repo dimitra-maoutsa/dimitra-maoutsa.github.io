@@ -9,7 +9,7 @@ collection: portfolio
 
 
 
-We introduced a method for introducing **geometric inductive biases** into the inference of stochastic systems. \
+We proposed a method for introducing **geometric inductive biases** into the inference of stochastic systems. \
 The central idea is to **view the deterministic flow field as a scaffold upon which system states fluctuate**,
 and to approximate this scaffold in terms of **distortions of a metric induced by the observations**. \
 This effectivelly approximates the low-dimensional invariant density (empirical manifold) without the need to project to a lower dimensional space (whose dimensionality would be hard to
