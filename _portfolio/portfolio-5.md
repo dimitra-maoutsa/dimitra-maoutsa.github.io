@@ -14,7 +14,8 @@ The central idea is to **view the deterministic flow field as a scaffold upon wh
 and to approximate this scaffold in terms of **distortions of a metric induced by the observations**. \
 This effectivelly approximates the low-dimensional invariant density (empirical manifold) without the need to project to a lower dimensional space (whose dimensionality would be hard to
 estimate due to the presence of fluctuations). \
-The central premise then is that **geodesics** computed on the empirical manifold wrt the approximated metric consitute **the most probable path between consecutive observations in the Onsager-Machlup sense**.
+The central premise then is that **geodesics** computed on the empirical manifold wrt the approximated metric consitute **the most probable path between consecutive observations in the Onsager-Machlup sense**. \
+We employed this most probable path as a control constraint to perform path augmentation between consecutive observations. 
 
 
 **This is the last part of my PhD thesis and the first single author paper I wrote.**
