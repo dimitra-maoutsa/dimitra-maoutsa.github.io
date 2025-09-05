@@ -1,6 +1,6 @@
 ---
 title: "From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints"
-excerpt: "Introducing geometric inductive biases for learning stochastic systems - with myself  <br/><img src='/images/overview_1-min.png' alt='Schematic of geometric framework-Dimitra Maoutsa'>"
+excerpt: "Introducing geometric inductive biases for learning stochastic systems - last paper from my PhD thesis -- with myself  <br/><img src='/images/overview_1-min.png' alt='Schematic of geometric framework-Dimitra Maoutsa'>"
 collection: portfolio
 ---
 
