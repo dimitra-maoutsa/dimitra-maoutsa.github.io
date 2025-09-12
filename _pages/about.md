@@ -56,6 +56,10 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] at the **Computatio
     <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/other/"> >>>Other<<< </a></td>
   </tr>
   <tr>
+    <td style="border: none; padding: 0.5em;">To see some selected workshops and schools I have attended</td>
+    <td style="border: none; padding: 0.5em;"><a href="https://dimitra-maoutsa.github.io/workshops/">Workshops & Schools</a></td>
+  </tr>
+  <tr>
     <td style="border: none; padding: 0.5em;">To contact me</td>
     <td style="border: none; padding: 0.5em;">dimitra.maoutsa (ατ) gmail.com</td>
   </tr>
