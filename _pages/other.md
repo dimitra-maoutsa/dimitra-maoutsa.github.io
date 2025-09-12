@@ -51,7 +51,7 @@ Entropy
 Neural Information Processing Systems (NeurIPS 2023 & 2025)\
 International Conference on Learning Representations (ICLR 2024)\
 International Conference on Machine Learning (ICML 2024 & 2025)\
-Annual AAAI Conference on Artificial Intelligence (AAAI 2025) (also Program Committee member)\
+Annual AAAI Conference on Artificial Intelligence (AAAI 2025 & 2026) (also Program Committee member)\
 NeurIPS - UniReps: Workshop on Unifying Representations in Neural Models (2024)\
 NeurIPS - Machine Learning for Physical Sciences workshop (2021 & 2022 & 2024)\
 ICML - Topological, Algebraic, and Geometric Learning workshop (2022 & 2023)\
