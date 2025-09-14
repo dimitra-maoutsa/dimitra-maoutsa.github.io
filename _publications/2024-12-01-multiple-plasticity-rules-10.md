@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2024-12-01-multiple-plasticity-rules-10
 excerpt: ''
 date: 2024-12-01
+first_author: true
 venue: '(in preparation)'
 slidesurl: ''
 paperurl: ''
