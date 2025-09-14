@@ -2,6 +2,7 @@
 title: "Inferring network connectivity from event timing patterns"
 collection: publications
 category: manuscripts 
+first_author: true
 permalink: /publication/2018-08-01-inferring-network-connectivity-1
 excerpt: 'Inference method for identifying synaptic interactions from spiking patterns based on a mapping of the spiking activity onto event spaces, where the connectivity can be estimated locally by approximating the interspike interval generating function.'
 date: 2018-08-01
