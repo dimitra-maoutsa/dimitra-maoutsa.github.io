@@ -5,7 +5,7 @@ category: manuscripts
 first_author: true
 permalink: /publication/2025-05-19-geometry-dynamics-1
 excerpt: ''
-date: 2025-05-19
+date: 2025-08
 venue: 'under review'
 slidesurl: ''
 paperurl: ''
