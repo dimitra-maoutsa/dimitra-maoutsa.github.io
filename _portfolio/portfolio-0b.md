@@ -21,3 +21,5 @@ However there are multiple hypotheses of how the prediction error responses emer
 - Is it the same project? No, because I start from a different hypothesis.
 - Did I "borrow" work from my previous lab? No, because to the best of my knowledge existing work (that I was not involved in) considers top-down feedback and multi-compartment **spiking** neurons, **while the model I use comes directly from a publication of another lab**. (In fact in my preliminary work I performed experiments with two firing rate models coming from publications of two other labs. So this type of work to the best of my knowledge is being done in at least 4-5 competing labs, and is not exclusive to my previous lab. My main inspiration was in fact papers from these other labs.)
 
+- **However if someone thinks otherwise and believe that I have "claimed part of their work" or whatnot, I am very open to discussion, and I am always reachable over e-mail.**
+
