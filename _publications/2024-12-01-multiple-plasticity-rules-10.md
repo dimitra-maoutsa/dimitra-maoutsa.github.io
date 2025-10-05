@@ -7,7 +7,5 @@ excerpt: ''
 date: 2024-12-01
 first_author: true
 venue: '(in preparation)'
-slidesurl: ''
-paperurl: ''
 citation: 'Maoutsa, D; Gjorgjieva, J. (in preparation). &quot;Identifying plasticity mechanisms underlying experience-driven adaptation in cortical circuits.&quot; <i>(in preparation)</i>. .'
 ---
