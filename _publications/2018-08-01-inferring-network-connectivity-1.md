@@ -7,7 +7,6 @@ permalink: /publication/2018-08-01-inferring-network-connectivity-1
 excerpt: 'Inference method for identifying synaptic interactions from spiking patterns based on a mapping of the spiking activity onto event spaces, where the connectivity can be estimated locally by approximating the interspike interval generating function.'
 date: 2018-08-01
 venue: 'Physical Review Letters'
-slidesurl: ''
 paperurl: 'https://gitlab.com/di.ma/Connectivity_from_event_timing_patterns/-/blob/master/PhysRevLett.121.054101.pdf'
 citation: 'Casadiego*, J; Maoutsa*, D; Timme, M. (2018). &quot;Inferring network connectivity from event timing patterns.&quot; <i>Physical Review Letters</i>. 121.5 (2018): 054101.'
 ---
