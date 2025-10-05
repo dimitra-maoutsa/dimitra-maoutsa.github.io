@@ -1,6 +1,6 @@
 ---
 title: "From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints"
-excerpt: "Introducing geometric inductive biases for learning stochastic systems - extended version of the last project of my PhD thesis -- with myself  <br/><img src='/images/overview_1-min.png' alt='Schematic of geometric framework-Dimitra Maoutsa'>"
+excerpt: "Introducing geometric inductive biases for learning stochastic systems - extended version of the last project of my PhD thesis  <br/><img src='/images/overview_1-min.png' alt='Schematic of geometric framework-Dimitra Maoutsa'>"
 collection: portfolio
 ---
 
@@ -18,4 +18,3 @@ The central premise then is that **geodesics** computed on the empirical manifol
 We employed this most probable path as a control constraint to perform path augmentation between consecutive observations, and employed these estimated latent paths for inference of th eunderlying flow field. 
 
 
-**This is the last project of my PhD thesis and the first single author paper I wrote.** You can read the thesis reviews here: [thesis reviews](https://dimitra-maoutsa.github.io/files/Gutachten_Maoutsa.pdf)
