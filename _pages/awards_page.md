@@ -8,7 +8,7 @@ permalink: /awards/
 
 | Entry            | Month Year   | Committee                                                    | Amount
 | --------         | :------: | ------------------------------------------------------------ | :---------------:
-|Top Reviewer at NeurIPS 2025 | Oct 2025 | Conference programme chairs | 800 $  |
+|Top Reviewer at NeurIPS 2025 | Oct 2025 | Conference area chairs | 800 $  |
 |Travel award for NeurIPS 2025 from WiML workshop | Oct 2025 | WiML organising committee | 1365 $ |
 |[Stipend for the BRAIN Conference on Frontiers of Theoretical Neuroscience](https://drive.google.com/file/d/1Xuzm_LwTX78h0e2qmaIuTPeZmBjl5Ziy/view?usp=share_link)|Jun 2025| Conference co-chairs <br>(Larry F. Abbott, Ila Fiete,<br> Haim Sompolinsky)| 1000 &euro;                          |
 | [SyNergy Network Travel Grant for <br> Methods in Computational Neuroscience MBL Advanced Research Training course](https://drive.google.com/file/d/1M3LaVJw7pqN28vGHsS0y7d13IfEekf4M/view)    | May 2024   | SyNergy Cluster, Munich Cluster for Systems Neurology | 1000 &euro;                          |
