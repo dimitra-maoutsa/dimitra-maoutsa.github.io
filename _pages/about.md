@@ -22,7 +22,7 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] at the **Computatio
 
  - identifying **biologically plausible plasticity rules** for learning tasks with **low-dimensional representations** in the neuronal activity space [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/)], [ important to read ](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html)
 
- - investigating **functional properties** of different **spike-timing dependent plasticity rules** on nonlinear Hawkes networks [[see more](https://www.world-wide.org/bernstein-24/plasticity-driven-circuit-self-organization-afecdc22/)],  
+ - investigating **functional properties** of different **spike-timing dependent plasticity rules** on nonlinear Hawkes networks [see poster](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/mini_poster.png)[[former worldwideneuro link seems broken](https://www.world-wide.org/bernstein-24/plasticity-driven-circuit-self-organization-afecdc22/)],  
 
  - revealing **structural and functional properties** of brain circuits from their **responses to optogenetic stimulation** [[see more](https://dimitra-maoutsa.github.io/mentor/)].
 
