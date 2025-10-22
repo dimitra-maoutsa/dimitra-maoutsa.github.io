@@ -11,5 +11,6 @@ We have devised a method for discovering plasticity rules for reward-driven trai
 
 Presented as a poster at: **Champalimaud Neuro-cybernetics Symposium - Oct 2025**
 
-Upcomming presentations: - **NeurIPS 2025 - NeurReps workshop**
-                         - **NeurIPS 2025 - WiML workshop**
+Upcomming presentations: 
+- **NeurIPS 2025 - NeurReps workshop**
+- **NeurIPS 2025 - WiML workshop**
