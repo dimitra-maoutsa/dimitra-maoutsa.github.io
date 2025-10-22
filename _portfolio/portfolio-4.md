@@ -8,8 +8,9 @@ collection: portfolio
 This is an extention of my previous work [From geometry to dynamics](https://dimitra-maoutsa.github.io/portfolio/portfolio-5/) on neural data inspired by the work of [Genkin, M., Hughes, O., & Engel, T. A. (2021)](https://www.nature.com/articles/s41467-021-26202-1). This essentially reformulates the problem of inference latent stochastic dynamics from a stochastic control perspective. 
 
 Presented as a **poster**: 
-- at Bernstein conference 2022
-- at Bernstein conference 2023
+- at Bernstein conference - Sep. 2022
+- at Bernstein conference - Sep. 2023
+- at Recent advances in understanding Artificial and Biological Neural Networks, École de physique des Houches, Les Houghes, Feb. 2023
 
 
 Presented as a **talk**:
