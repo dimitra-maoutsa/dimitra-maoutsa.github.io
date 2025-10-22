@@ -11,7 +11,7 @@ Here we construct a multi-area model that explains these interactions.
 <img src='/images/Inter-area.png' alt="Inter-area interactions- Dimitra Maoutsa" style="max-width:600px; width:100%;" >
 
 Presented as a poster at:
-- **Champalimaud Neuro-cybernetics Symposium - Oct 2025**
+- **Champalimaud Neuro-cybernetics Symposium - Oct 2025** ([see here for more info](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/untitled2.html))
 - **Bernstein Conference - Sep 2025**
 
 
