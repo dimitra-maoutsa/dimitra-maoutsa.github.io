@@ -9,5 +9,15 @@ We employ linear response theory to identify design constraints and adaptation m
 
 <img src='/images/VIP_to_SST_synapse_Weded_delta_planes_schematic_blah.png' alt="Visualised constraints for adaptation - Dimitra Maoutsa" style="max-width:600px; width:100%;" >
 
+Presented as an **oral presentation** at: **Junior theoretical Neuroscience workshop - Flatiron Institute - July 2025**
+
+Presented as a **poster presentation** at: 
+- **Brain Conferences - Jun 2025**
+- **Learning with and without brains workshop - MPI PKS - July 2025**
+- **Bernstein Conference - Sept. 2024**
+- **Munich BCCN retreat - July 2024**
+- **Munich Brain day - April 2024**
+  
+
 
 <sup> <sup> <sup> <sup> ${\textsf{\color{white}Dimitra Maoutsa }}$ <sup> <sup> <sup> <sup>
