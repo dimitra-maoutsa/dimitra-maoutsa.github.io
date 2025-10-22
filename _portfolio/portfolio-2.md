@@ -20,5 +20,11 @@ Also related and important to read for the the continuation of this project: [ i
 
 
 
+<img src='/images/mini_poster_Pablo.png' alt="Shaping low-rank recurrent neural networks with biological learning rules - Pablo Crespo, Dimitra Maoutsa, Matt Getz" style="max-width:600px; width:80%;" >
+
+
+
+
+
 [^1]: Since I know that someone tries to imply that I didn't participate in this retreat, please read more [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Not_in_photo.html) if you care.
 [^2]: This here was the world wide neuro link where the screengrab of the poster submission comes from, but the link stopped working somewhere between beginning and mid October 2025 [poster-worldwideneuro link not working since mid Oct 2025](https://www.world-wide.org/bernstein-24/shaping-low-rank-recurrent-neural-9e3c69df/) .
