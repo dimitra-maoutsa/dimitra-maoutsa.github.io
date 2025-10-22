@@ -1,7 +1,7 @@
 ---
 title: "Contextual reconfiguration of representations"
 excerpt: >-
-  <br/><img src="/images/mouse.png" alt="Continual learning in RNNs—Dimitra Maoutsa" width="180" />
+  <br/><img src="/images/mouse.png" alt="Continual learning in RNNs—Dimitra Maoutsa" width="260" />
 collection: portfolio
 ---
 
