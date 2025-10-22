@@ -9,6 +9,11 @@ Inter-area interaction analysis between V1 and adjacent areas reveals that V1 re
 Here we construct a multi-area model that explains these interactions.
 <img src='/images/Inter-area.png' alt="Inter-area interactions- Dimitra Maoutsa" style="max-width:600px; width:100%;" >
 
+Presented as a poster at:
+- **Champalimaud Neuro-cybernetics Symposium - Oct 2025**
+- **Bernstein Conference - Sep 2025**
+
+
 
 Since during my last presentation some people asked me whether this work is similar to what I was doing in my previous lab or whether this is similar to other work done in my previous lab, I think it is prudent to clarify the differences:
 
