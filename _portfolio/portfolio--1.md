@@ -1,7 +1,7 @@
 ---
 title: "Meta-learning three-factor learning rules for reward-driven training of RNNs"
 excerpt: >-
-  Reinforcement learning plasticity rules for reinforcement training of RNNs
+  Reinforcement learning plasticity rules for reinforcement training of RNNs - started as a postdoc independently (May 2025)
   <br/><img src="/images/meta_training.png" alt="Reward-driven training of RNNs-Dimitra Maoutsa" width="260" style="display:block; margin:0 auto;" />
 collection: portfolio
 ---
