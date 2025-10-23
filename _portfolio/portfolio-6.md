@@ -2,7 +2,7 @@
 title: "Inferring synaptic interactions and transmission delays"
 excerpt: >-
   "Inference of neuronal interactions from spike train recordings from a geometric approximation of the inter-spike interval generating function of each recorded neuron - **with Jose Casadiego, Dimitra Maoutsa, Marc Timme**"
-  <br/><img src="/images/event_space.png" alt="Geomteric approximation of inter-spike interval generating function—Dimitra Maoutsa" width="260" style="display:block; margin:0 auto;" />
+  <br/><img src="/images/event_space.png" alt="Geomteric approximation of inter-spike interval generating function—Dimitra Maoutsa" width="360" style="display:block; margin:0 auto;" />
 collection: portfolio
 ---
 
