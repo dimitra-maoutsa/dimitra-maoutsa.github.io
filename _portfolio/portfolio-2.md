@@ -1,6 +1,6 @@
 ---
 title: "Shaping low-rank recurrent neural networks with biological learning rules"
-excerpt: "Biologically-plausible training of low-rank RNNs - <b>with Pablo Crespo, Dimitra Maoutsa, Matt Getz</b> - started during PostDoc at TUM <br/><img src='/images/thumb_Pablo.png'>"
+excerpt: "Biologically-plausible training of low-rank RNNs <br/> <b>with Pablo Crespo, Dimitra Maoutsa, Matt Getz</b> <br/> started during PostDoc at TUM <br/><img src='/images/thumb_Pablo.png'>"
 collection: portfolio
 ---
 
