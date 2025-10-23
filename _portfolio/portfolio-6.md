@@ -12,7 +12,7 @@ We proposed a **mapping of the spiking activity to high-dimensional spaces**, te
 To **identify the transmission delays**, we proposed the minimisation of the approximation error in the space of interaction delays. To speed up the optimisation and avoid local minima, we optimised the delays on a smoothed error landscape approximated by radial basis function interpolation.
 
 
-**Resulted in the paper [Casadiego\*, Maoutsa\*, Timme; Physical Review Letters 20218](https://gitlab.com/di.ma/Connectivity_from_event_timing_patterns/-/blob/master/PhysRevLett.121.054101.pdf)**
+**Resulted in the paper [Casadiego\*, Maoutsa\*, Timme; Physical Review Letters 2018](https://gitlab.com/di.ma/Connectivity_from_event_timing_patterns/-/blob/master/PhysRevLett.121.054101.pdf)**
 
 
 <img src='/images/event_space.png' alt="Mapping from raster plot to event spaces - Dimitra Maoutsa" style="max-width:600px; width:80%;" style="display:block; margin:0 auto;" >
