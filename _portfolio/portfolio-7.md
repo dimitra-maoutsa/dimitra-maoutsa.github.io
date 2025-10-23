@@ -7,4 +7,4 @@ collection: portfolio
 ---
 
 
-More ifno [here](https://gitlab.com/dimitra-maoutsa/odes_for_sdes/-/blob/master/README.md)
+More info [here](https://gitlab.com/dimitra-maoutsa/odes_for_sdes/-/blob/master/README.md)
