@@ -1,6 +1,6 @@
 ---
 title: "Revealing latent stochastic dynamics from neuronal spiking patterns"
-excerpt: "Inference of latent stochastic dynamics through stochastic control <br/> **with myself** <br/> started as an independent project during my PhD and continued afterwards <br/><img src='/images/intro.png' alt='Schematic of latent inference framework-Dimitra Maoutsa'>"
+excerpt: "Inference of latent stochastic dynamics through stochastic control <br/> **with myself** <br/> started as an independent project during my PhD <br/><img src='/images/intro.png' alt='Schematic of latent inference framework-Dimitra Maoutsa'>"
 collection: portfolio
 ---
 
