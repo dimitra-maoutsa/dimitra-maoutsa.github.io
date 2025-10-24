@@ -15,7 +15,7 @@ and here is his [presentation](https://drive.google.com/file/d/111LEU1VtoUKUwI3W
 
 - **Pablo Crespo**: **Master’s thesis student** enrolled in the Biomedical Computing program at the Technical University of Munich. Co-
 supervised with Dr. Matt Getz, Pablo focuses on formulating **biologically plausible plasticity rules** for learning cognitive tasks with
-low-dimensional representations in the neural space. Here is one of the posters Pablo presented [Bernstein Conference 2024: world wide neuro link broken since mid October 2025](https://www.world-wide.org/bernstein-24/shaping-low-rank-recurrent-neural-9e3c69df/).[see poster and details here](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/) \
+low-dimensional representations in the neural space using Simulation Based Inference and two-factor plasticity rules. Here is one of the posters Pablo presented [Bernstein Conference 2024: world wide neuro link broken since mid October 2025](https://www.world-wide.org/bernstein-24/shaping-low-rank-recurrent-neural-9e3c69df/).[see poster and details here](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/) \
  **[completed: Oct. 2023 - Aug. 2024]**
 
 
