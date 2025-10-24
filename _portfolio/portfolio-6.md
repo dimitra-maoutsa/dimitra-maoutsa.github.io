@@ -12,7 +12,7 @@ We proposed a **mapping of the spiking activity to high-dimensional spaces**, te
 To **identify the transmission delays**, we proposed the minimisation of the approximation error in the space of interaction delays. To speed up the optimisation and avoid local minima, we optimised the delays on a smoothed error landscape approximated by radial basis function interpolation.
 
 [Here](/files/Reco_connectivity_for_irregular_dynamics.pdf) is an extension of the method that I wrote up as a mini-project in prallel with my thesis that imporves the reconstruction performance in settings with irregular spiking activity. The clue in this case is to look at the singular components with less variability (minor components) because they represent the directions in the event space with consistent firing patterns that correspond to causal interactions between neurons, while the dominant/principal component capture the variability of the irregular activity.
-This didn't make it in the paper.
+This didn't make it in the final paper, but I've always found it a neat feat.
 
 
 **Resulted in the paper [Casadiego\*, Maoutsa\*, Timme; Physical Review Letters 2018](https://gitlab.com/di.ma/Connectivity_from_event_timing_patterns/-/blob/master/PhysRevLett.121.054101.pdf)**
