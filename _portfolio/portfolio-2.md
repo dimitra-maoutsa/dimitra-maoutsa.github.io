@@ -5,9 +5,9 @@ collection: portfolio
 ---
 
 We study how different plasticity rules affect the low-dimensional representations and dynamics of low-rank recurrent neural networks,
- and employ simulation based inference within a teacher-student framework to identify plasticity rules that solve common neuroscience tasks. 
-The low-dimensional representions of gradient-descent trained teacher networks serve as activity characterisers 
-for infering biologically-plausible plasticity rules that imprint these low-dimensional representations onto the student networks. 
+ and employ **simulation based inference within a teacher-student framework** to identify two-factor plasticity rules that solve common neuroscience tasks. 
+**The low-dimensional representions of gradient-descent trained teacher networks serve as activity characterisers 
+for infering biologically-plausible plasticity rules that imprint these low-dimensional representations onto the student networks**. 
 
 
 You can see the poster that Pablo presented at Bernstein conference 2024: [poster](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/Shaping%20Low-Rank%20Recurrent%20Neural%20Networks%20with%20Biological%20Learning%20Rules%20Bernstein.png) [^2] . Here is a link where you can see only the poster: [ only poster ](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/mini_poster_Pablo.png) .
