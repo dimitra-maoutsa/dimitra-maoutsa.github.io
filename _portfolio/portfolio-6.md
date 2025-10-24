@@ -15,4 +15,11 @@ To **identify the transmission delays**, we proposed the minimisation of the app
 **Resulted in the paper [Casadiego\*, Maoutsa\*, Timme; Physical Review Letters 2018](https://gitlab.com/di.ma/Connectivity_from_event_timing_patterns/-/blob/master/PhysRevLett.121.054101.pdf)**
 
 
-<img src='/images/event_space.png' alt="Mapping from raster plot to event spaces - Dimitra Maoutsa" style="max-width:600px; width:80%;" style="display:block; margin:0 auto;" >
+<img src='/images/event_space.png' alt="Mapping from raster plot to event spaces - Dimitra Maoutsa" style="max-width:600px; width:40%;"  >
+<img src='/images/event_space_representation.png' alt="Event space representation of raster plot - Dimitra Maoutsa" style="max-width:600px; width:40%;"  >
+
+<img src='/images/reconstruction_quality_vs_CV.png' alt="Event space representation of raster plot - Dimitra Maoutsa" style="max-width:600px; width:50%;" style="display:block; margin:0 auto;" >
+
+<img src='/images/inferring_delays.png' alt="Event space representation of raster plot - Dimitra Maoutsa" style="max-width:600px; width:50%;" style="display:block; margin:0 auto;" >
+
+
