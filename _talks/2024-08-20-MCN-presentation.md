@@ -8,7 +8,7 @@ date: 2024-08-20
 location: "Woods Hole, Falmouth, USA"
 ---
 Twenty minutes presentation on the research project I worked on during my stay at the summer school.
-See presentation deck [here](https://dimitra-maoutsa.github.io/MethodsInCompNeuro-SummerSchoolPresentation/)
+See presentation deck [here](https://dimitra-maoutsa.github.io/Methods_in_Comp_Neuro_2024_School-WoodsHole/)
 More information about the project will eventually appear [here](https://dimitra-maoutsa.github.io/portfolio/portfolio-0/)
 
 
