@@ -9,6 +9,6 @@ More info sooooon....
 <img src='/images/Continual_fixed_point_structure.png' alt="Continual learning in RNNs- Dimitra Maoutsa" style="max-width:600px; width:100%;" >
 
 
-Presented as an **oral presentation at the MCN Summer school - Aug. 2024** [see presention deck here](https://dimitra-maoutsa.github.io/MethodsInCompNeuro-SummerSchoolPresentation/)
+Presented as an **oral presentation at the MCN Summer school - Aug. 2024** [see presention deck here](https://dimitra-maoutsa.github.io/Methods_in_Comp_Neuro_2024_School-WoodsHole/)
 
 <sup> <sup> <sup> <sup> ${\textsf{\color{white}Dimitra Maoutsa }}$ <sup> <sup> <sup> <sup>
