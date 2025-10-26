@@ -28,7 +28,7 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the
 
 ( For more details see [mentoring](https://dimitra-maoutsa.github.io/mentor/) and [projects](https://dimitra-maoutsa.github.io/portfolio/) )
 
-
+<span style="color:red"> *some emphasized markdown text*</span>
 
 
 <table style="border-collapse: collapse; width: 100%; margin-top: 2em; border: none;">
