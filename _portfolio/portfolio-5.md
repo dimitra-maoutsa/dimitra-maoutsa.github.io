@@ -18,3 +18,4 @@ The central premise then is that **geodesics** computed on the empirical manifol
 We employed this most probable path as a control constraint to perform path augmentation between consecutive observations, and employed these estimated latent paths for inference of th eunderlying flow field. 
 
 
+See here the [pre-print](https://openreview.net/forum?id=FxMXaAz4ra)
