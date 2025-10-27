@@ -8,4 +8,5 @@ excerpt: ''
 date: 2025-08-15
 venue: 'under review'
 citation: ' (2025). &quot;From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints.&quot; <i>under review</i>'
+paperurl: 'https://openreview.net/forum?id=FxMXaAz4ra'
 ---
