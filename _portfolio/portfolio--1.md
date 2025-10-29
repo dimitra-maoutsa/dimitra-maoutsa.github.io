@@ -18,3 +18,5 @@ Presented as a poster at: **Champalimaud Neuro-cybernetics Symposium - Oct 2025*
 Upcomming presentations: 
 - **NeurIPS 2025 - NeurReps workshop**
 - **NeurIPS 2025 - WiML workshop**
+
+If someone happens to claim that this is work/ideas/dreams that belong to my previous lab, please read the emial exchange here that explicitly states that I am free to pursue this project because we never discussed anything other than me proposing to use a three-factor rule [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html).
