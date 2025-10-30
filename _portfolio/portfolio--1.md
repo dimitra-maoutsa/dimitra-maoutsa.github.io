@@ -19,7 +19,7 @@ Upcomming presentations:
 - **NeurIPS 2025 - NeurReps workshop**
 - **NeurIPS 2025 - WiML workshop**
 
-If someone happens to claim that this is work/ideas/dreams that belong to my previous lab, please read the email exchange here that explicitly states that I am free to pursue this project because we never discussed anything other than me proposing to use a three-factor rule [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html). And see [here](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/) the last stage of the project I was involved in that used low-rank networks and **two-factor rules**. (Also no eligibility traces or any sort of feedback).
+If someone happens to claim that this is work/ideas/dreams that belong to my previous lab, please read the email exchange here that explicitly states that I am free to pursue this project because we never discussed anything other than me proposing to use a three-factor rule [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html). And see [here](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/) the last stage of the project I was involved in that used **low-rank networks** and **two-factor rules** (only pre- and post-synaptic rates). (Also this project had no eligibility traces or any sort of feedback).
 
 
 [^1]: Let's just say that I am very apt at pattern recognision, which extends to regonsising (and predicting) patterns of behaviour of certain individuals. ;)
