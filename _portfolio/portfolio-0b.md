@@ -14,6 +14,8 @@ Here we construct a multi-area model that explains these interactions.
 Presented as a poster at:
 - **Champalimaud Neuro-cybernetics Symposium - Oct 2025** ([see here for more info](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/untitled2.html))
 - **Bernstein Conference - Sep 2025**
+- **Brain Conferences - Jun 2025** (together with new results from the old project)
+- **Learning with and without brains workshop - MPI PKS - July 2025** (together with new results from the old project)
 
 
 
