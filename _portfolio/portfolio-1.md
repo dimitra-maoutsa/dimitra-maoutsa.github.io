@@ -9,7 +9,7 @@ We employ linear response theory to identify design constraints and adaptation m
 
 <img src='/images/VIP_to_SST_synapse_Weded_delta_planes_schematic_blah.png' alt="Visualised constraints for adaptation - Dimitra Maoutsa" style="max-width:600px; width:100%;" >
 
-Presented as an **oral presentation** at: **Junior theoretical Neuroscience workshop - Flatiron Institute - July 2025**
+Presented as an **oral presentation** at: **Junior theoretical Neuroscience workshop - Flatiron Institute - July 2025** (first part of the presentation)
 
 Presented as a **poster presentation** at: 
 
