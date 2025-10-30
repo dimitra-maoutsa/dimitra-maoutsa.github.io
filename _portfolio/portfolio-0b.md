@@ -16,8 +16,8 @@ Presented as an oral presentation at: **Junior theoretical Neuroscience workshop
 Presented as a poster at:
 - **Champalimaud Neuro-cybernetics Symposium - Oct 2025** ([see here for more info](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/untitled2.html))
 - **Bernstein Conference - Sep 2025**
-- **Brain Conferences - Jun 2025** (together with new results from the old project)
-- **Learning with and without brains workshop - MPI PKS - July 2025** (together with new results from the old project)
+- **Brain Conferences - Jun 2025** (together with new results from the old project on "Identifying plasticity mechanisms for recurrent...")
+- **Learning with and without brains workshop - MPI PKS - July 2025** (together with new results from the old project on "Identifying plasticity mechanisms for recurrent...")
 
 
 
