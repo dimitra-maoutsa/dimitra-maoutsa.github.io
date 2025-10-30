@@ -12,8 +12,7 @@ We employ linear response theory to identify design constraints and adaptation m
 Presented as an **oral presentation** at: **Junior theoretical Neuroscience workshop - Flatiron Institute - July 2025**
 
 Presented as a **poster presentation** at: 
-- **Brain Conferences - Jun 2025**
-- **Learning with and without brains workshop - MPI PKS - July 2025**
+
 - **Bernstein Conference - Sept. 2024**
 - **Munich BCCN retreat - July 2024**
 - **Munich Brain day - April 2024**
