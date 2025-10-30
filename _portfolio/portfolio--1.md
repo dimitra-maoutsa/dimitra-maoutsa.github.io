@@ -11,7 +11,7 @@ We have devised a method for discovering plasticity rules for reward-driven trai
 
 <img src='/images/meta_training.png' alt="Discovering reward-driven training rules for reinforcement training of RNNs - Dimitra Maoutsa" style="max-width:600px; width:60%;" >
 
-Here is a very coarse pre-print sketching out the ideas **submitted at NeurIPS 2025** (without results) ([see here](https://openreview.net/forum?id=KkOMqJQiWU)) to test for interest (and ensure that when I present it as a poster in upcomming conferences I will have proof of the origin of the ideas) and **pre-printed on 13th of August 2025** [here](https://openreview.net/forum?id=V13CdTeMsT). 
+Here is a very coarse pre-print sketching out the ideas **submitted at NeurIPS 2025** (without results) ([see here](https://openreview.net/forum?id=KkOMqJQiWU)) to test for interest (_and ensure that when I present it as a poster in upcomming conferences I will have proof of the ownership of the ideas_[^1]) and **pre-printed on 13th of August 2025** [here](https://openreview.net/forum?id=V13CdTeMsT). 
 
 Presented as a poster at: **Champalimaud Neuro-cybernetics Symposium - Oct 2025** ([see here for more info](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/untitled2.html))
 
@@ -20,3 +20,6 @@ Upcomming presentations:
 - **NeurIPS 2025 - WiML workshop**
 
 If someone happens to claim that this is work/ideas/dreams that belong to my previous lab, please read the emial exchange here that explicitly states that I am free to pursue this project because we never discussed anything other than me proposing to use a three-factor rule [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html). And see [here](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/) the last stage of the project I was involved in that used low-rank networks and **two-factor rules**. (Also no eligibility traces or any sort of feedback).
+
+
+[^1]: Let's just say that I am very apt in pattern recognision, which extends to regonsising (and predicting) patterns of behaviour of certain individuals. ;)
