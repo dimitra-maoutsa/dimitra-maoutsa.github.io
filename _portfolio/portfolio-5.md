@@ -21,7 +21,7 @@ We employed this most probable path as a control constraint to perform path augm
 See here the [preprint](https://openreview.net/forum?id=FxMXaAz4ra)
 
 This project has been presented as a **talk** at:
-- TUM during my interview talk at the Gjorgjieva lab - April 2023 (together with the the work on inference of synaptic connectivity)
+- TUM during my interview talk at the Gjorgjieva lab - April 2023 (together with the the work on inference of synaptic connectivity under the name "Geometric methods for inference")
 - Flatiron institute - April 2024 (together with the work on inference of latent neural dynamics)
 - Institute for Adaptive and Neural Computation, University of Edinburgh - May 2024 (together with the work on inference of latent neural dynamics)
   
