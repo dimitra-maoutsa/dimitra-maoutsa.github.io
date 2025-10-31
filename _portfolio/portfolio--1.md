@@ -11,7 +11,7 @@ We have devised a method for discovering plasticity rules for reward-driven trai
 
 <img src='/images/meta_training.png' alt="Discovering reward-driven training rules for reinforcement training of RNNs - Dimitra Maoutsa" style="max-width:600px; width:60%;" >
 
-Here is a very coarse pre-print sketching out the ideas **submitted at NeurIPS 2025** (without results) ([see here](https://openreview.net/forum?id=KkOMqJQiWU)) to test for interest (_and ensure that when I present it as a poster in upcomming conferences I will have proof of the ownership of the ideas_[^1]) and **pre-printed on 13th of August 2025** [here](https://openreview.net/forum?id=V13CdTeMsT). 
+Here is a very coarse pre-print sketching out the ideas **submitted at NeurIPS 2025** (without results) ([see here](https://openreview.net/forum?id=KkOMqJQiWU)) to test for interest (_and ensure that when I present it as a poster in upcomming conferences I will have proof of the ownership of the ideas in case someone would try to claim them (although I still wonder who would be so **creatively inert and intellectually vacuous** to want to claim my or other people's ideas instead of generating their own)_[^1]) and **pre-printed on 13th of August 2025** [here](https://openreview.net/forum?id=V13CdTeMsT). 
 
 Presented as a poster at: **Champalimaud Neuro-cybernetics Symposium - Oct 2025** ([see here for more info](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/untitled2.html))
 
