@@ -24,6 +24,7 @@ This project has been presented as a **talk** at:
 - at TUM during my interview talk at the Gjorgjieva lab - April 2023 (together with the the work on inference of synaptic connectivity)
 - at Flatiron institute - April 2024 (together with the work on inference of latent neural dynamics)
 - at Institute for Adaptive and Neural Computation, University of Edinburgh - May 2024 (together with the work on inference of latent neural dynamics)
+  
 and as a **poster** at:
 - NeurIPS 2022 - Machine learning for the physical sciences workshop ([see related short paper](https://arxiv.org/abs/2301.08102))
 - at Recent advances in understanding Artificial and Biological Neural Networks, École de physique des Houches, Les Houghes, Feb. 2023
