@@ -69,6 +69,7 @@ ICLR 2025 - Workshop on Machine Learning Multiscale Processes\
 5th & 6th & 7th Symposium on Advances in Approximate Bayesian Inference (AABI) (2023 & 2024 & 2025)\
 Neural Information Processing Systems (NeurIPS) Ethics reviews (2025)\
 Neural Information Processing Systems (NeurIPS) Datasets & Benchmarks Ethics reviews (2025)
+Topology, Algebra, and Geometry in the Data Sciences (TAG-DS 2025)
 
 
 
