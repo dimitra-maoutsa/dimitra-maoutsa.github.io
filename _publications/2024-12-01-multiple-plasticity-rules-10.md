@@ -9,3 +9,5 @@ first_author: true
 venue: '(in preparation)'
 citation: 'Maoutsa, D; Gjorgjieva, J. (in preparation). &quot;Identifying plasticity mechanisms underlying experience-driven adaptation in cortical circuits.&quot; <i>(in preparation)</i>. .'
 ---
+
+This is the associated paper for this project [ this ](https://dimitra-maoutsa.github.io/portfolio/portfolio-1/)
