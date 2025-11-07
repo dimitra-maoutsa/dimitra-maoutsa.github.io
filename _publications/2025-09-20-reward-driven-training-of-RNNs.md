@@ -10,3 +10,4 @@ venue: 'NeurIPS-WiML workshop'
 citation: 'Maoutsa, D.(2025). &quot;Discovering neo-Hebbian plasticity rules for reward-driven training of RNNs.&quot; <i>NeurIPS-WiML workshop</i>.'
 ---
 
+See [here](https://dimitra-maoutsa.github.io/portfolio/portfolio--1/) for details on the project.
