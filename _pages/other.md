@@ -76,4 +76,4 @@ Topology, Algebra, and Geometry in the Data Sciences (TAG-DS 2025)
 
 ### Serotonin releasers
 
-The most magnificent cat in existence [Comaneci](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/20250327_151412.jpg) [more Comaneci](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/coma.jpg) [sleepy Comaneci](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/sleepy_coma.jpg)
+The most magnificent cat in existence [Comaneci](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/20250327_151412.jpg) [more Comaneci](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/coma.jpg) [sleepy Comaneci](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/sleepy_coma.jpg) [praying for your sins](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/coma_praying.jpg)
