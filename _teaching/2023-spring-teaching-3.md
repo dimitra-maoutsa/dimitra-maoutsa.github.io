@@ -13,7 +13,7 @@ Topics included neural coding, rate neuronal models, spike-timing and rate-based
 
 Presented 8 out of 13 (1.5h/week) tutorials
 
-Tutorial material can be found here: [tutorial notebooks](https://github.com/comp-neural-circuits/intro-to-comp-neuro/tree/WS22/23)
+Tutorial material can be found here: [tutorial notebooks](https://github.com/comp-neural-circuits/intro-to-comp-neuro/tree/WS22/23)\
 (I presented from tutorial 5 onwards + one extra tutorial I created on introduction to dynamical systems)
 
 Co-lecturer: Dr. Andre Ferreira Castro
