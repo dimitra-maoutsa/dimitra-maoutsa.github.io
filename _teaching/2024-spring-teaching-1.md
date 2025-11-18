@@ -16,7 +16,7 @@ Prepared and presented exercise tutorials (analytical & computational) on spike-
 Presented 3 (1.5h/week) tutorials
 
 
-[ExcI](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Exercise_I___Gjorgjieva_lecture-1.pdf)
-[ExcII](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Exercise_II___Gjorgjieva_lecture-1.pdf)
+[Exc.I](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Exercise_I___Gjorgjieva_lecture-1.pdf)
+[Exc.II](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Exercise_II___Gjorgjieva_lecture-1.pdf)
 
 
