@@ -13,6 +13,7 @@ Tutorials on spike-timing dependent plasticity, rate-based plasticity and networ
 
 
 Prepared and presented exercise tutorials (analytical & computational) on spike-timing dependent plasticity, rate-based plasticity and network dynamics
+
 Presented 3 (1.5h/week) tutorials
 
 
