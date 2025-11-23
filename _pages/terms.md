@@ -1,11 +1,15 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2024-11-19
 ---
 
 {% include base_path %}
 {% include toc %}
+
+## Terms
+
+All information and material on this website is provided for viewing purposes only and for your personal, non-commercial use. You may not copy, reproduce, distribute, modify, mirror, or create derivative works from any part of this site without my prior written consent. All rights, title, and interest in the content, including text, images, figures, code, downloadable files, and design, belong exclusively to Dimitra Maoutsa and are protected by copyright and other intellectual-property laws. No license or other rights are granted by implication or otherwise. The information is provided “as is” for informational use and does not constitute professional advice; you use it at your own risk. I may update or remove content at any time. **For permissions, please contact me before using any material beyond personal viewing.**
 
 ## Privacy Policy
 
