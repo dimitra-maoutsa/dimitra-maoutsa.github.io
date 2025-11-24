@@ -15,7 +15,7 @@ Ongoing projects (as of Nov 2025) involve:
  - devising a reinforcement learning based method for discovering plasticity rules for reinforcement training of RNNs [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio--1/)]
  -  modelling the contextual reconfiguration of representations through top-down feedback [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-0b/)].
 
-For further directions, please feel free to reach out.
+For further ongoing directions, please feel free to reach out.
 
 I completed my PhD with **summa cum laude**[^2] under the mentorship of **Prof. Manfred Opper** in **March 2023** at the **Technical University of Berlin** ([degree: dated 13.04.2023](https://drive.google.com/file/d/1F8WyFhBwLBV1ldzCnkQu4siwXaX0L-P_/view?usp=sharing) - [published online thesis at TUB library since 2023](https://depositonce.tu-berlin.de/items/19509be7-75b6-4774-a66c-bcc4c75fed8f))[^1] and under close colaboration with the **Institute of Mathematics at the University of Potsdam**. There by drawing insights from machine learning, statistical learning theory and statistical physics, we developed three frameworks for efficient **sampling, control, and inference of overdamped Langevin dynamics** ( [Maoutsa, Reich, Opper; Entropy; 2020](https://www.mdpi.com/1099-4300/22/8/802), [Maoutsa, Opper; MLPS-NeurIPS; 2021](https://arxiv.org/abs/2110.13020), [Maoutsa, Opper; PRRev; 2022](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035), [Maoutsa; MLPS-NeurIPS; 2022](https://arxiv.org/abs/2301.08102), [Maoutsa; Physics4ML-ICLR; 2023](https://arxiv.org/abs/2304.00423) ).
 
