@@ -10,8 +10,8 @@ redirect_from:
 
 I am a postdoctoral researcher currently working on **Theoretical and Computational neuroscience** with a background on **stochastic dynamics, stochastic analysis, and nonlinear dynamics**.
 
-I am broadly interested in **how learning and synaptic plasticity shape collective population dynamics and representational geometries, and how these changes manifest in behaviour.** 
-Current projects involve:
+I am broadly interested in **how learning and synaptic plasticity shape collective population dynamics and representational geometries, and how these changes manifest in behaviour.**\
+Ongoing projects (as of Nov 2025) involve:
  - devising a reinforcement learning based method for discovering plasticity rules for reinforcement training of RNNs [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio--1/)]
  -  modelling the contextual reconfiguration of representations through top-down feedback [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-0b/)].
 
