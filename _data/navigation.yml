@@ -9,7 +9,7 @@
 #    url: /markdown/
 # - title: "Workshops"
 #    url: /workshops/
-#- title: "Presentations"
+#- title: "Talks"
  #   url: /talks/   
 
 # Changing the order here will adjust the order and you can also add additional
@@ -32,7 +32,7 @@ main:
   - title: "Mentoring"
     url: /mentor/    
 
-  - title: "Presentations"
+  - title: "Talks"
     url: /talks/
 
   - title: "(Eigen)Values"
