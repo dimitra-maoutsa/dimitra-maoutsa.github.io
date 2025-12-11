@@ -31,7 +31,7 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the
 
  - investigating **functional properties** of different **spike-timing dependent plasticity rules** on nonlinear Hawkes networks [see poster](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/mini_poster.png)[[former worldwideneuro link seems broken](https://www.world-wide.org/bernstein-24/plasticity-driven-circuit-self-organization-afecdc22/)],  
 
- - revealing **structural and functional properties** of brain circuits from their **responses to optogenetic stimulation** [[see more](https://dimitra-maoutsa.github.io/mentor/)].\
+ - revealing **structural and functional properties** of brain circuits from their **responses to optogenetic stimulation** [[see more](https://dimitra-maoutsa.github.io/mentor/)].
 
 :books: <ins>My postdoc resulted in **one first author publication in preparation** and **at least one middle author article also in preparation**</ins>. :books:\
 :books: <ins>Independently after my postdoc I am working on **another single author publication**</ins>. :books:
