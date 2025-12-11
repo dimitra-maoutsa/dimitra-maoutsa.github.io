@@ -9,6 +9,7 @@ date: 2025-09-20
 venue: 'NeurIPS 2025 - Symmetry and Geometry in Neural Representations workshop'
 citation: 'Maoutsa, D.(2025). &quot;Meta-learning three-factor plasticity rules for structured credit assignment with sparse feedback.&quot; <i>NeurIPS-NeurReps workshop</i>.'
 paperurl: 'https://openreview.net/forum?id=6WzTOeucFq'
+slidesurl: 'http://arxiv.org/abs/2512.09366'
 ---
 
 See [here](https://dimitra-maoutsa.github.io/portfolio/portfolio--1/) for details on the project.
