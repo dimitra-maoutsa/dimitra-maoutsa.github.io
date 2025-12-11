@@ -18,7 +18,7 @@ Training
 - M.Sc. in <ins>Computer Science & Computational Neuroscience</ins>, **Georg August University of Goettingen & Max Planck Institute for Dynamics and Self-Organisation**, 2016
 - Diploma in <ins>Electrical and Computer Engineering</ins>, [**National Technical University of Athens**](https://academicpositions.de/employer/national-technical-university-of-athens-ntua), 2013
 
-<ins>  text</ins>
+
 
 Publications
 ======
