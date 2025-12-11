@@ -17,17 +17,17 @@ Ongoing projects (as of Nov 2025) involve:
 
 For further ongoing directions, please feel free to reach out.
 
-:books: <ins>For one of these projects I am curently preparing **a single author publication**</ins>. :books:
+:small_orange_diamond: <ins>For one of these projects I am curently preparing **a single author publication**</ins>. :small_orange_diamond:
 
 I completed my PhD with **summa cum laude**[^2] under the mentorship of **Prof. Manfred Opper** in **March 2023** at the **Technical University of Berlin** ([degree: dated 13.04.2023](https://drive.google.com/file/d/1F8WyFhBwLBV1ldzCnkQu4siwXaX0L-P_/view?usp=sharing) - [published online thesis at TUB library since 2023](https://depositonce.tu-berlin.de/items/19509be7-75b6-4774-a66c-bcc4c75fed8f))[^1] and under close colaboration with the **Institute of Mathematics at the University of Potsdam**. There by drawing insights from machine learning, statistical learning theory and statistical physics, we developed three frameworks for efficient **sampling, control, and inference of overdamped Langevin dynamics** ( [Maoutsa, Reich, Opper; Entropy; 2020](https://www.mdpi.com/1099-4300/22/8/802), [Maoutsa, Opper; MLPS-NeurIPS; 2021](https://arxiv.org/abs/2110.13020), [Maoutsa, Opper; PRRev; 2022](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035), [Maoutsa; MLPS-NeurIPS; 2022](https://arxiv.org/abs/2301.08102), [Maoutsa; Physics4ML-ICLR; 2023](https://arxiv.org/abs/2304.00423) ).
 
 The main contributions of my thesis ([thesis reviews](https://dimitra-maoutsa.github.io/files/Gutachten_Maoutsa.pdf)) were an **interacting particle system** with deterministic dynamics for samling solutions of Fokker-Planck equations (now known as **probability flow ODEs**) (see [ODEs for SDEs](https://gitlab.com/dimitra-maoutsa/odes_for_sdes/-/blob/master/README.md)), a **feedback control** algorithm for stochastic dynamics (see [the paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035)), and a **stochastic control-inspired framework** for introducing **geometric inductive biases** into the dynamical inference of stochastic systems (see [from geometry to dynamics](https://dimitra-maoutsa.github.io/portfolio/portfolio-5/)).
 
-:books: <ins>My Ph.D. resulted in **two first author** and **one single author publications**, with another followup **single author publication** in preparation</ins>. :books:
+:small_orange_diamond: <ins>My Ph.D. resulted in **two first author** and **one single author publications**, with another followup **single author publication** in preparation</ins>. :small_orange_diamond:
 
 Before my PhD, I worked in the **Network Dynamics** (Timme) group at the **Max Planck Institute for Dynamics and Self-Organisation** in Göttingen, after and during my master's on Computational Neuroscience at the University of Göttingen. During my stay there, I developed a method for identifying **synaptic interactions** from neuronal firing patterns based **on a geometric approximation of the inter-spike interval generating function** of each observed neuron ([Casadiego\*, Maoutsa\*, Timme; PRL; 2018](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.054101)[)](https://www.ds.mpg.de/publication-search/148862?person=%2Fpersons%2Fresource%2Fpersons238426)[,](https://ui.adsabs.harvard.edu/abs/2016APS..MARY12004T/abstract) and further studied phase transitions of autonomous intersections[.](https://pure.mpg.de/cone/persons/resource/persons238426?lang=de).
 
-:books: <ins>My Master's resulted in **one co-first author publication**</ins>. :books:
+:small_orange_diamond: <ins>My Master's resulted in **one co-first author publication**</ins>. :small_orange_diamond:
 
 I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the **Computation in Neural Circuits** lab within the **School of Life Sciences** at Technical University of Munich working on topics relating **structure and function of neural circuits**. During that time I worked on identifying potential circuit mechanisms and design constraints that explain the differential representation of familiar and novel stimuli in layer 2/3 mouse V1 [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-1/)], and (co-)supervised **three Master’s students** working on: 
 
@@ -37,7 +37,7 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the
 
  - revealing **structural and functional properties** of brain circuits from their **responses to optogenetic stimulation** [[see more](https://dimitra-maoutsa.github.io/mentor/)].
 
-:books: <ins>My postdoc resulted in **one first author publication in preparation** and **at least one middle author article also in preparation**</ins>. :books:
+:small_orange_diamond: <ins>My postdoc resulted in **one first author publication in preparation** and **at least one middle author article also in preparation**</ins>. :small_orange_diamond:
 
 
 ( For more details see [mentoring](https://dimitra-maoutsa.github.io/mentor/) and [projects](https://dimitra-maoutsa.github.io/portfolio/) )
