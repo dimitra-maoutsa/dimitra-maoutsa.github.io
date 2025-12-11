@@ -17,6 +17,8 @@ Ongoing projects (as of Nov 2025) involve:
 
 For further ongoing directions, please feel free to reach out.
 
+:books: <ins>For one of these projects I am curently preparing **a single author publication**</ins>. :books:
+
 I completed my PhD with **summa cum laude**[^2] under the mentorship of **Prof. Manfred Opper** in **March 2023** at the **Technical University of Berlin** ([degree: dated 13.04.2023](https://drive.google.com/file/d/1F8WyFhBwLBV1ldzCnkQu4siwXaX0L-P_/view?usp=sharing) - [published online thesis at TUB library since 2023](https://depositonce.tu-berlin.de/items/19509be7-75b6-4774-a66c-bcc4c75fed8f))[^1] and under close colaboration with the **Institute of Mathematics at the University of Potsdam**. There by drawing insights from machine learning, statistical learning theory and statistical physics, we developed three frameworks for efficient **sampling, control, and inference of overdamped Langevin dynamics** ( [Maoutsa, Reich, Opper; Entropy; 2020](https://www.mdpi.com/1099-4300/22/8/802), [Maoutsa, Opper; MLPS-NeurIPS; 2021](https://arxiv.org/abs/2110.13020), [Maoutsa, Opper; PRRev; 2022](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035), [Maoutsa; MLPS-NeurIPS; 2022](https://arxiv.org/abs/2301.08102), [Maoutsa; Physics4ML-ICLR; 2023](https://arxiv.org/abs/2304.00423) ).
 
 The main contributions of my thesis ([thesis reviews](https://dimitra-maoutsa.github.io/files/Gutachten_Maoutsa.pdf)) were an **interacting particle system** with deterministic dynamics for samling solutions of Fokker-Planck equations (now known as **probability flow ODEs**) (see [ODEs for SDEs](https://gitlab.com/dimitra-maoutsa/odes_for_sdes/-/blob/master/README.md)), a **feedback control** algorithm for stochastic dynamics (see [the paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035)), and a **stochastic control-inspired framework** for introducing **geometric inductive biases** into the dynamical inference of stochastic systems (see [from geometry to dynamics](https://dimitra-maoutsa.github.io/portfolio/portfolio-5/)).
@@ -35,8 +37,8 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the
 
  - revealing **structural and functional properties** of brain circuits from their **responses to optogenetic stimulation** [[see more](https://dimitra-maoutsa.github.io/mentor/)].
 
-:books: <ins>My postdoc resulted in **one first author publication in preparation** and **at least one middle author article also in preparation**</ins>. :books:\
-:books: <ins>Independently after my postdoc I am working on **another single author publication**</ins>. :books:
+:books: <ins>My postdoc resulted in **one first author publication in preparation** and **at least one middle author article also in preparation**</ins>. :books:
+
 
 ( For more details see [mentoring](https://dimitra-maoutsa.github.io/mentor/) and [projects](https://dimitra-maoutsa.github.io/portfolio/) )
 
