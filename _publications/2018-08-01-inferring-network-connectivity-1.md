@@ -12,3 +12,5 @@ citation: 'Casadiego*, J; Maoutsa*, D; Timme, M. (2018). &quot;Inferring network
 ---
 
 We introduced a mapping of the network spiking activity to high-dimensional spaces, called **event spaces**, spanned by the relative spiking intervals of all neurons in the network. This mapping can be construed as a sampling of the inter-spike interval generating function for each neuron. To identify the effect of putative pre-synaptic neurons to a post-synaptic one we proposed a linearisation of the inter-spike interval generating function around a reference point (reference event).
+
+Read more [here](https://dimitra-maoutsa.github.io/portfolio/portfolio-6/)
