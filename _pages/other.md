@@ -19,9 +19,11 @@ Or you can directly go to my github profile: [github](https://github.com/dimitra
 You can read my infrequently maintained blog here: [blog](https://dimitra-maoutsa.github.io/M-Dims-Blog/)
 
 
-### Useful math links
+### Useful links
 
 The golden book of linear algebra: [the matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+The golden book of latex symbols (when you run out of letters for variable names): [latex cookbook](https://fosszone.csd.auth.gr/CTAN/info/symbols/comprehensive/symbols-a4.pdf)
 
 
 
