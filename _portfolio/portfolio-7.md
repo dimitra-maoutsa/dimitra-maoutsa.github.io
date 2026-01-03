@@ -11,19 +11,3 @@ More info [here](https://gitlab.com/dimitra-maoutsa/odes_for_sdes/-/blob/master/
 
 
 
-<img src='/images/Constraints.png' alt="Terminal and path constraints for stochastic control - Dimitra Maoutsa, Manfred Opper" style="max-width:600px; width:80%;" >
-
-
-<img src='/images/waterfall_plot.png' alt="Proposed deterministic particle control framework - Dimitra Maoutsa, Manfred Opper" style="max-width:600px; width:80%;" >
-
-
-
-<img src='/images/bridge_on_LC.png' alt="Backward probability flow ODE on LC with only terminal constraints - Dimitra Maoutsa, Manfred Opper" style="max-width:600px; width:40%;" >
-
-
-
-<img src='/images/Controlled_and_uncontrolled_LC.png' alt="Controlled and uncontrolled LC paths with only terminal constraints - Dimitra Maoutsa, Manfred Opper" style="max-width:600px; width:80%;" >
-
-
-
-
