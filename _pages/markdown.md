@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+### Some are driven by insecurity, and others by curiosity; know well with whom thou dost contend.
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
