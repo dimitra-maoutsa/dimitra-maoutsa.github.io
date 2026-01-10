@@ -35,9 +35,6 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "(Eigen)Values"
-    url: /values/
-
   - title: "Other"
     url: /other/
 
