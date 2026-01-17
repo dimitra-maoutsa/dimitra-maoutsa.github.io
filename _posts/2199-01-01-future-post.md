@@ -7,5 +7,5 @@ tags:
   - category1
   - category2
 ---
-The actual blog is at https://dimitra-maoutsa.github.io/M-Dims-Blog/ :)
+The actual blog is at https://dimitra-maoutsa.github.io/M-Dims-Blog/ :-*
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
