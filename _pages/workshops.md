@@ -25,6 +25,9 @@ permalink: /workshops/
 - [Methods in Computational Neuroscience ](), Marine Biological Laboratory Woods Hole, 2024
 - [Brain Conference: Frontiers of Theoretical Neuroscience](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/The_Brain_Conferences.html), Rungsted Kyst Denmark, 2025
 - [Junior Theoretical Neuroscientist’s Workshop](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Flatiron_CCNJunior_Theoretical_Neuro.html), Flatiron Institute New York, 2025
-- [Unifying the Principles of Learning with and without Brains](https://www.pks.mpg.de/uplwwb25), MPI-PKS Dresden, 2025 
+- [Unifying the Principles of Learning with and without Brains](https://www.pks.mpg.de/uplwwb25), MPI-PKS Dresden, 2025
+- [Collective dynamics and Information processing in neural systems](), Satelite of StatPhys29, Venice, 2025
+- [Neuro-cybernetics at scale](), Champalimaud Symposium, Lisbon, 2025
+- [Symmetry & Geometry of Neural Representations](), NeurIPS, San Diego, 2025
 
   
