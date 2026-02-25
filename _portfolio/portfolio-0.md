@@ -14,7 +14,7 @@ Presented as an **oral presentation at the MCN Summer school - Aug. 2024** [see 
 
 The last part of the presentation was for a mini-project we were working on with Sarah Elnozahy and Sara Solla[^1] on trying to identify interactions between V1 and ACC from the recordings Sarah had collected in her lab.
 
-[1]: Sara Solla received a Valentin Braitenberg Award from the Bernstein network in August 2025!!!
+[^1]: Sara Solla received a Valentin Braitenberg Award from the Bernstein network in August 2025!!!
 
 
 <sup> <sup> <sup> <sup> ${\textsf{\color{white}Dimitra Maoutsa }}$ <sup> <sup> <sup> <sup>
