@@ -11,6 +11,7 @@ More info sooooon....
 
 Presented as an **oral presentation at the MCN Summer school - Aug. 2024** [see presention deck here](https://dimitra-maoutsa.github.io/Methods_in_Comp_Neuro_2024_School-WoodsHole/)
 
+The main project was inspired by Omri Barak's talk at the Cosyne 2024 mega-workshop on geometry of representations and the associated paper with Elia Turner.
 
 The last part of the presentation was for a mini-project we were working on with Sarah Elnozahy and Sara Solla[^1] on trying to identify interactions between V1 and ACC from the recordings Sarah had collected in her lab.
 
