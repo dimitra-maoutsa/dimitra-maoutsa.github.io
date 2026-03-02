@@ -67,6 +67,9 @@ ICML - Structured Probabilistic Inference & Generative Modeling workshop (2023)\
 ICML - LatinX in AI (LXAI) Workshop (2023)\
 ICLR 2023 & 2024 - Tiny Papers\
 ICLR 2025 - Workshop on Machine Learning Multiscale Processes\
+ICLR 2024 & 2026 - Workshop on Geometry-grounded Representation Learning and Generative Modeling\
+ICLR 2026 - Real-World Constrained and Preference-Aligned Flow and Diffusion-Based Models Workshop\
+ICLR 2026 - Workshop on Scientific Methods for Understanding Deep Learning (Sci4DL)\
  Sampling Theory and Applications (SampTA 2023)\
 5th & 6th & 7th Symposium on Advances in Approximate Bayesian Inference (AABI) (2023 & 2024 & 2025)\
 Neural Information Processing Systems (NeurIPS) Ethics reviews (2025)\
