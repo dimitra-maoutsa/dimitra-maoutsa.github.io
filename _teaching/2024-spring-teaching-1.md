@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutoring"
 permalink: /teaching/2024-spring-teaching-1
 venue: "Ludwig Maximilian University of Munich, Graduate School of Systemic
-Neurosciences (joint LMU & TUM school)"
+Neurosciences (joint LMU & TUM graduate school)"
 date: 2024-06-01
 location: "Munich, Germany"
 ---
