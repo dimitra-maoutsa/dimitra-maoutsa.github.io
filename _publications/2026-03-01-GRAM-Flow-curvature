@@ -1,0 +1,14 @@
+---
+title: "Flow curvature explains failed SDE drift estimation under sparse sampling"
+collection: publications
+category: workshops
+first_author: true
+permalink: /publication/2026-03-01-GRAM-Flow-curvature
+excerpt: 'Geometric motivation of the sparse SDE inference method.'
+date: 2026-03-01
+venue: 'ICLR-Geometry-grounded Representation Learning and Generative Modeling workshop'
+citation: 'Maoutsa, D.(2026). &quot;Learning to learn dynamical associations with reward-gated local plasticity.&quot; <i>International Conference for Learning Representations-Geometry-grounded Representation Learning and Generative Modeling workshop</i>.'
+---
+
+
+See [here](https://gram-workshop.github.io/).
