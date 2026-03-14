@@ -8,6 +8,7 @@ permalink: /awards/
 
 | Entry            | Month Year   | Committee                                                    | Amount
 | --------         | :------: | ------------------------------------------------------------ | :---------------:
+|[Outstanding reviewer award at Scientific Methods for Understanding Deep Learning workshop ICLR 2026](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/Sci4DL.png) | Mar 2026 | Sci4DL workshop chairs | ~800 $ (registration fee) |
 |[Top Reviewer at NeurIPS 2025 <br>(top 8% of reviewers)](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Complimentary%20Registration%20for%20NeurIPS%202025.pdf) | Oct 2025 | NeurIPS Conference chairs | 800 $ (registration fee) |
 |[Travel award for NeurIPS 2025 from WiML workshop](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/WiML-travel_suppport.png) | Oct 2025 | WiML organising committee | 1476 $ |
 |[Stipend for the BRAIN Conference on Frontiers of Theoretical Neuroscience](https://drive.google.com/file/d/1Xuzm_LwTX78h0e2qmaIuTPeZmBjl5Ziy/view?usp=share_link)|Jun 2025| Conference co-chairs <br>(Larry F. Abbott, Ila Fiete,<br> Haim Sompolinsky)| 1000 &euro;                          |
