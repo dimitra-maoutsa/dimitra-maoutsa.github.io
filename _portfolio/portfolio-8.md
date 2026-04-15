@@ -5,7 +5,7 @@ excerpt: >-
   <br/><img src="/images/waterfall_plot_cmap25b.png" alt="Non-iterative Path Integral Control—Dimitra Maoutsa" width="460" style="display:block; margin:0 auto;" />
 collection: portfolio
 ---
-**Resulted in paper [Maoutsa \& Opper, Phys. Review Research 2022](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035?ft=1)**
+**Resulted in paper [Maoutsa \& Opper, Phys. Review Research 2022](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035?ft=1)** with [Supplement here](https://drive.google.com/file/d/13o2ywOms0diLO6SjdyegtIiQWWHpDcvt/view?usp=share_link).
 
 
 See more information [here](https://github.com/dimitra-maoutsa/DeterministicParticleFlowControl)
