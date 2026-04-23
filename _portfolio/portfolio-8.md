@@ -21,7 +21,8 @@ See more information [here](https://github.com/dimitra-maoutsa/DeterministicPart
 
 <img src='/images/bridge_on_LC.png' alt="Backward probability flow ODE on LC with only terminal constraints - Dimitra Maoutsa, Manfred Opper" style="max-width:600px; width:40%;" >
 
-
+Controlled paths with Van der Pol dynamics with terminal constraint reach the final target, while the uncontrolled paths reach the vicinity without reaching the target.
+This example is inspired by my subsequent work [ see here ](https://dimitra-maoutsa.github.io/portfolio/portfolio-5/), where the ground truth dynamics (Van der Pol in this example) are **not known**, but are rather inferred from the invariant density.
 
 <img src='/images/Controlled_and_uncontrolled_LC.png' alt="Controlled and uncontrolled LC paths with only terminal constraints - Dimitra Maoutsa, Manfred Opper" style="max-width:600px; width:80%;" >
 
