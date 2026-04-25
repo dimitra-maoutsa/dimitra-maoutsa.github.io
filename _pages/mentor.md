@@ -37,5 +37,5 @@ of spike timing-dependent plasticity on spiking stabilised supralinear networks*
 gence of prediction errors in V1 based on the Allen Institute Calcium imaging behaviour dataset.\
 **[Oct. 2024 - Apr. 2025]**
 
-- [https://qr.codes/cxSWuK](https://qr.codes/cxSWuK)
+- [see here more details](https://qr.codes/cxSWuK)
   
