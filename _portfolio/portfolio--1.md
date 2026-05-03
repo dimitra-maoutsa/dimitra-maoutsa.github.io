@@ -18,12 +18,11 @@ The starting point of the idea was the **grad-log density/score function estimat
 
 
 ## Presentations
-Presented as a poster at: **Champalimaud Neuro-cybernetics Symposium - Oct 2025** ([see here for more info](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/untitled2.html))
-
-
+Presented as a poster at: 
+- **Champalimaud Neuro-cybernetics Symposium - Oct 2025** ([see here for more info](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/untitled2.html))
 - **NeurIPS 2025 - NeurReps workshop**
 - **NeurIPS 2025 - WiML workshop**
-- **ICLR 2026 - New frontiers in Associative Memories workshop** [see here](https://iclr.cc/virtual/2026/10022421)
+- **ICLR 2026 - New frontiers in Associative Memories workshop** ([see here](https://iclr.cc/virtual/2026/10022421))
 
 
 ## FYI
