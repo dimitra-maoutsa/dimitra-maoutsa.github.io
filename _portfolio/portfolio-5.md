@@ -20,6 +20,8 @@ We employed this most probable path as a control constraint to perform path augm
 
 See here the [preprint](https://openreview.net/forum?id=FxMXaAz4ra) or [here](https://doi.org/10.48550/arXiv.2512.23566). Soon to appear in ICML.
 
+Additional results [here](https://gitlab.com/geometry.and.dynamics/rebuttal) for now.
+
 This project has been presented as a **talk** at:
 - TUM during my interview talk at the Gjorgjieva lab - April 2023 (together with the the work on inference of synaptic connectivity under the name "Geometric methods for inference")
 - Flatiron institute - April 2024 (together with the work on inference of latent neural dynamics)
