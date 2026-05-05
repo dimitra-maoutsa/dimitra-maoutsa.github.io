@@ -26,11 +26,11 @@ of spike timing-dependent plasticity on spiking stabilised supralinear networks*
 - **Introduction to Computational Neuroscience group projects**: Solely directed and mentored **6 groups** (2-3 students each) in executing practical research projects that served as their final evaluation for the lecture Introduction to Computational Neuroscience. More details [here](https://dimitra-maoutsa.github.io/teaching/2023-spring-teaching-2) . \
  **[completed: Nov. 2023 - Mar 2024]**
 
-- **Neuromatch Academy Computational Neuroscience summer school**: Mentored two groups on their research projects on **a PFC-Motor RNN** project (group Manifold Mechanics) and on **inter-area communications** using the IBL dataset (group 404). \
+- **Neuromatch Academy Computational Neuroscience summer school**: Mentored (project mentor) two groups on their research projects on **a PFC-Motor RNN** project (group Manifold Mechanics) and on **inter-area communications** using the IBL dataset (group 404). \
  **[completed: July 2025]**
 
 
-- **Neuromatch Academy NeuroAI summer school**: Mentored four groups on their research projects. Two groups working on **biologically informed network architectures** for robotic control, and two on **biologically plausible learning algorithms**. \
+- **Neuromatch Academy NeuroAI summer school**: Mentored (project mentor) four groups on their research projects. Two groups working on **biologically informed network architectures** for robotic control, and two on **biologically plausible learning algorithms**. \
  **[completed: July 2025]**
 
 - **Sahar Hoseinzade, Mohammad Jalili**: Modelling and data analysis project on the influence of **attention and reward** on the emer-
