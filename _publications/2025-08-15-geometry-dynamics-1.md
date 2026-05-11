@@ -3,7 +3,7 @@ title: "From geometry to dynamics: Learning overdamped Langevin dynamics from sp
 collection: publications
 category: manuscripts
 first_author: true
-permalink: /publication/2026-04-30-geometry-dynamics-1
+permalink: /publication/2025-08-15-geometry-dynamics-1
 excerpt: ''
 date: 2026-04-30
 venue: '43rd International Conference on Machine Learning (ICML 2026)'
