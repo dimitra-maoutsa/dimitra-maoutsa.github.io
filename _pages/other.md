@@ -65,6 +65,7 @@ ICML - Topological, Algebraic, and Geometric Learning workshop (2022 & 2023)\
 ICML - Synergy of Scientific and Machine Learning Modeling (2023)\
 ICML - Structured Probabilistic Inference & Generative Modeling workshop (2023)\
 ICML - LatinX in AI (LXAI) Workshop (2023)\
+ICML - Compositional Learning workshop (2026)\
 ICLR - Tiny Papers (2023 & 2024)\
 ICLR - Workshop on Machine Learning Multiscale Processes (2025)\
 ICLR - Workshop on Geometry-grounded Representation Learning and Generative Modeling (2024 & 2026)\
