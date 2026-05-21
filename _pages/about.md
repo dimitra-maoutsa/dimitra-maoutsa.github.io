@@ -40,7 +40,6 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the
 
  - revealing **structural and functional properties** of brain circuits from their **responses to optogenetic stimulation** [[see more](https://dimitra-maoutsa.github.io/mentor/)].
 
-:closed_book: <ins>My postdoc resulted in **one first author publication in preparation** and **at least one middle author article also in preparation**</ins>. 
 
 
 ( For more details see [mentoring](https://dimitra-maoutsa.github.io/mentor/) , [projects](https://dimitra-maoutsa.github.io/portfolio/) , and [publications](https://dimitra-maoutsa.github.io/publications/) )
