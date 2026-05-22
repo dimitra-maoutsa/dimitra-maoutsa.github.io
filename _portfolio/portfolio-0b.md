@@ -39,7 +39,7 @@ Next, there are multiple hypotheses of how the prediction error responses emerge
    - First version of the manuscript in question: **14 May 2025** -> [biorxiv link](https://www.biorxiv.org/content/10.1101/2025.05.14.654005v1?versioned=true) : Contains no multi-compartment excitatory neuron (main figures go up to 7 with only point neurons)
    - My writup of the project description here: **3 Oct 2025** -> [github commit](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/commit/bf8a58e800e59310d8f030f53ed5a2f25bbf7993)
    - Second version of the manuscript in question: **25 March 2026** -> [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.14.654005v2) : Figure 8 now with multi-compartment excitatory neuron. All fine, because anyways it is different from the one I use. Good extension from their side, no overlap from my side.
-   - I left the lab in **late 2024** so the latest version of this project I might have been aware of was the first pre-print.
+   - I left the lab in **late 2024** so the latest version of this project I might have been aware of was the first pre-print of 14 May 2025 and not the one that came out 1.5 years after.
    - Thank you for listening to my mini-talk :)
 
 - **However if someone thinks otherwise and believes that I have "claimed part of their work/their ideas/their dreams" or whatnot, I am very open to discussion, and I am always reachable over e-mail. And I prefer to be contacted directly to resolve any issue, as opposed to let rumors spread that I am misappropriating work.**
