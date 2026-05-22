@@ -38,7 +38,7 @@ Next, there are multiple hypotheses of how the prediction error responses emerge
 - **UPDATE and CLARIFICATIONS on MAY 2026**: Since I noticed a recent preprint from previous lab that now includes multicompartmental neurons receiving top-down feedback, here are some important details:
    - First version of the manuscript in question: **14 May 2025** -> [biorxiv link](https://www.biorxiv.org/content/10.1101/2025.05.14.654005v1?versioned=true) : Contains **no multi-compartment excitatory neuron** (main figures go up to 7 with only point neurons)
    - My writup of the project description here: **3 Oct 2025** -> [github commit](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/commit/bf8a58e800e59310d8f030f53ed5a2f25bbf7993)
-   - Second version of the manuscript in question: **25 March 2026** -> [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.14.654005v2) : Now goes up to Figure 8 now **with multi-compartment excitatory neuron**. **All fine, because anyways it is different model from the one I use and fot different purposes**. Good extension from their side, no overlap from my side.
+   - Second version of the manuscript in question: **25 March 2026** -> [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.14.654005v2) : Now goes up to Figure 8 now **with multi-compartment excitatory neuron**. **All fine, because anyways it is different model from the one I use and for different purposes**. Good extension from their side, no overlap from my side.
    - I left the lab in **late 2024** so the latest version of this project I might have been aware of was the first pre-print of 14 May 2025 and not the one that came out 1.5 years after.
    - Thank you for listening to my mini-talk :)
 
