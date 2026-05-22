@@ -35,6 +35,12 @@ Next, there are multiple hypotheses of how the prediction error responses emerge
 - Does the project try to answer a similar question as my previous project? Yes.
 - Is it the same project? No, because I start from a different hypothesis.
 - Did I "borrow" work from my previous lab? No, because to the best of my knowledge existing work (that I was not involved in) considers top-down feedback and multi-compartment **spiking** neurons, **while the model I use comes directly from a publication of another competing lab**. (In fact in my preliminary work I performed experiments with two firing rate models coming from publications of two other labs. So this type of work to the best of my knowledge is being done in at least 4-5 competing labs, and is not exclusive to my previous lab. My main inspiration was in fact papers from these other labs.)
+- **UPDATE and CLARIFICATIONS on MAY 2026**: Since I noticed a recent preprint from previous lab that now includes multicompartmental neurons receiving top-down feedback CLARIFICATIONS:
+   - First version of this manuscript in question: **14 May 2025** -> [biorxiv link](https://www.biorxiv.org/content/10.1101/2025.05.14.654005v1?versioned=true) : Contains no multi-compartment excitatory neuron (main figures go up to 7 with only point neurons)
+   - My writup of the project description here: **3 Oct 2025** -> [github commit](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/commit/bf8a58e800e59310d8f030f53ed5a2f25bbf7993)
+   - Second version of the manuscript in question: **25 March 2026** -> [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.14.654005v2) : Figure 8 now with multi-compartment excitatory neuron. All fine, because anyways it is different from the one I use. Good extension from their side, no overlap from my side.
+   - I left the lab in **late 2024** so the latest version of this project I might have been aware of was the first pre-print.
+   - Thank you for listening to my mini-talk :)
 
 - **However if someone thinks otherwise and believes that I have "claimed part of their work/their ideas/their dreams" or whatnot, I am very open to discussion, and I am always reachable over e-mail. And I prefer to be contacted directly to resolve any issue, as opposed to let rumors spread that I am misappropriating work.**
 
