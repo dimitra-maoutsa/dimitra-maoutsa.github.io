@@ -25,6 +25,13 @@ Presented as a poster at:
 - **ICLR 2026 - New frontiers in Associative Memories workshop** ([see here](https://iclr.cc/virtual/2026/10022421))
 
 
+Here an older version of the poster
+
+<img src='/images/ICLR_biornn_poster.png' alt="Discovering reward-driven training rules for reinforcement training of RNNs-ICLR poster - Dimitra Maoutsa" style="max-width:600px; width:80%;" >
+
+
+
+
 ## FYI
 If someone happens to claim that this is work/ideas/dreams that belong to my previous lab, please read the email exchange here that explicitly states that I am free to pursue this project because we never discussed anything other than me proposing to use a three-factor rule [here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html). And see [here](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/) the last stage of the project I was involved in that used **low-rank networks** and **two-factor rules** (only pre- and post-synaptic rates). (Also this project had no eligibility traces or any sort of feedback).
 
