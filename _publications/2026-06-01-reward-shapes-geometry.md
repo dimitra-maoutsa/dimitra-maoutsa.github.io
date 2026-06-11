@@ -13,3 +13,5 @@ citation: 'Madrid-Carvajal, J. et. al, (2026). &quot;How reward and experience s
 
 
 Link to paper: [https://zenodo.org/records/20626344](https://zenodo.org/records/20626344)
+
+Since Zenodo seems randomly... broken, here a preliminary version of the manuscript: [paper](https://github.com/dimitra-maoutsa/dimitra-maoutsa.github.io/blob/12ed7d305ccdb8c5d62eaf1bbd4e01062bd49170/files/madrid-carvajal-shapes-geometry-3.pdf)
