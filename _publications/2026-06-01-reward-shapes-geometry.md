@@ -14,4 +14,4 @@ citation: 'Madrid-Carvajal, J. et. al, (2026). &quot;How reward and experience s
 
 Link to paper: [https://zenodo.org/records/20626344](https://zenodo.org/records/20626344)
 
-Since Zenodo seems randomly... broken, here a preliminary version of the manuscript: [paper](https://drive.google.com/file/d/1OsKo3nhUgJQMSIFV8Je7ZHyg2D0ro0_e/view?usp=share_link)
+If Zenodo is temporaly down, here a preliminary version of the manuscript: [paper](https://drive.google.com/file/d/1OsKo3nhUgJQMSIFV8Je7ZHyg2D0ro0_e/view?usp=share_link)
