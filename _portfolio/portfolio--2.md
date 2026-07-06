@@ -18,4 +18,4 @@ Analysing population dynamics of mouse visual cortex under rewarded learning and
 
 This was a project initiated as part of the Neuromatch Impact Scholars program by John Madrid-Carvajal, Katja Kaurinkoski, Ishatpreet Singh, Rohit Jeswanth and myself in a mentoring role.
 
-You can read more at: [https://zenodo.org/records/20644007](https://zenodo.org/records/20644007)
+You can read more at: [here](https://zenodo.org/records/20644007)
