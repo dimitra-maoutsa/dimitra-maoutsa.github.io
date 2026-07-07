@@ -8,6 +8,7 @@ permalink: /awards/
 
 | Entry            | Month Year   | Committee                                                    | Amount
 | --------         | :------: | ------------------------------------------------------------ | :---------------:
+|[Accomodation and conference fee award from ICML 2026](https://drive.google.com/file/d/1Te6JywRBL_KdsrMqpRufGv7U1tAp4PM3/view?usp=sharing) | May 2026 | ICML Area chairs | ~1900$ + 800 $ (registration fee) |
 |[Golden reviewer - Top reviewer award from ICML 2026](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/ICML26_gold_reviewer.html) | May 2026 | ICML Area chairs | ~800 $ (registration fee) |
 |[Top 200 reviewers award from ICLR 2026](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/ICLR_top_200reviewer_award.html) | Apr 2026 | ICLR Area chairs | ~800 $ (registration fee) |
 |[Outstanding reviewer award at Scientific Methods for Understanding Deep Learning workshop ICLR 2026](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/images/Sci4DL.png) | Mar 2026 | Sci4DL workshop chairs | ~800 $ (registration fee) |
