@@ -1,6 +1,6 @@
 ---
 title: "How reward and experience shape neural population dynamics"
-excerpt: "Together with **John Madrid-Carvajal**, **Katja Kaurinkoski\***, **Ishatpreet Singh\***, **Rohit Jeswanth\***<br/> 
+excerpt: "Together with **John Madrid-Carvajal**, **Katja Kaurinkoski^*, Ishatpreet Singh^*, Rohit Jeswanth^*,**<br/> 
    Started under the impact scholar Neuromatch program<br/>
 <img src='/images/thumb_ISP2.png'>"
 collection: portfolio
