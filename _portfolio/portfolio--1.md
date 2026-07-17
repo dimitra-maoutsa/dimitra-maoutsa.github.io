@@ -9,7 +9,11 @@ collection: portfolio
 
 We have devised a method for discovering plasticity rules for reward-driven training of recurrent networks.
 
-<img src='/images/meta_training.png' alt="Discovering reward-driven training rules for reinforcement training of RNNs - Dimitra Maoutsa" style="max-width:600px; width:60%;" >
+<img src='/images/meta_training.png' alt="Schematic for Discovering reward-driven training rules for reinforcement training of RNNs - Dimitra Maoutsa" style="max-width:300px; width:30%;" >
+
+
+<img src='/images/bernabstract.png' alt="Discovering reward-driven training rules for reinforcement training of RNNs - Dimitra Maoutsa" style="max-width:600px; width:80%;" >
+
 
 ## Background
 Here is a very coarse pre-print sketching out the ideas **submitted at NeurIPS 2025** (without results) ([see here](https://openreview.net/forum?id=KkOMqJQiWU)) to test for interest (_and ensure that when I present it as a poster in upcomming conferences I will have proof of the ownership of the ideas in case someone would try to claim them[^1] [^2]_) and **pre-printed on 13th of August 2025** [here](https://openreview.net/forum?id=V13CdTeMsT).\
