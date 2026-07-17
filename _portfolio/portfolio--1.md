@@ -27,6 +27,9 @@ Presented as a poster at:
 - **NeurIPS 2025 - NeurReps workshop**
 - **NeurIPS 2025 - WiML workshop**
 - **ICLR 2026 - New frontiers in Associative Memories workshop** ([see here](https://iclr.cc/virtual/2026/10022421))
+- **BrainNets workshop** (talk)
+- **7th International Conference on the Mathematics of Neuroscience and AI 2026**
+- **ICML 2026 - WiML workshop**
 
 
 Here an older version of the poster
