@@ -21,7 +21,7 @@ This was a project initiated as part of the Neuromatch Impact Scholars program b
 You can read more at: [here](https://zenodo.org/records/20644007)
 
 
-Also you can see the presentation of John and Isht in that link: [youtube link](https://youtu.be/5_Fvx-1cg3c?t=2893) [^1]
+Also you can watch the presentation of John and Isht in that link: [youtube link](https://youtu.be/5_Fvx-1cg3c?t=2893) [^1]
 
 
 [^1]: My participation in the project was hidden in the presentation (and in the submission of the project) to avoid attracting unwanted attention from those who would have wanted to intervene.
