@@ -10,9 +10,7 @@ permalink: /other/
 ## Other useful information
 
 ### Code
-Here you can find code of some of my publications: [paperswithcode](https://paperswithcode.com/search?q_meta=&q_type=&q=dimitra+maoutsa)
-
-Or you can directly go to my github profile: [github](https://github.com/dimitra-maoutsa)
+You can find code of some of my publications on my github profile: [github](https://github.com/dimitra-maoutsa)
 
 ### Blog
 
