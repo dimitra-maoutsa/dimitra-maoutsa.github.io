@@ -28,6 +28,11 @@ The main contributions of my thesis ([thesis reviews](https://dimitra-maoutsa.gi
 :closed_book: <ins>My Ph.D. resulted in **two first author**, **one single author publication**, several workshop papers, and another followup **single author publication** in preparation</ins>.\
 [ [Maoutsa, ICML 2026](https://arxiv.org/abs/2512.23566) ([ICML link](https://icml.cc/virtual/2026/poster/60982)), [Maoutsa, Opper; Physical Review Research; 2022](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043035), [Maoutsa, Reich, Opper; Entropy; 2020](https://www.mdpi.com/1099-4300/22/8/802), [Maoutsa, Opper; MLPS-NeurIPS; 2021](https://arxiv.org/abs/2110.13020),  [Maoutsa; MLPS-NeurIPS; 2022](https://arxiv.org/abs/2301.08102), [Maoutsa; Physics4ML-ICLR; 2023](https://arxiv.org/abs/2304.00423) ]
 
+
+On **Summer 2024 (Jul. - Aug. 2024)** I had the luck to attend the **Marine Biological Laboratory** training course **Methods in Computational Neuroscience** in Woods Hole. I worked there together with **Dr. Jeff Johnston and Prof. Stefano Fusi** on a project on studying how the dynamical landscape of recurrent neural networks was changing in continual learning settings for different input/output architectures and tasks, and together with the fellow student **Sarah Elnozahy and Prof. Sara Solla** on a mini-project based on the calcium imaging dataset of Sarah on identifying inter-areal interactions between mouse V1 and ACC over learning a predictive task.\
+You can see my presentation [here](https://dimitra-maoutsa.github.io/Methods_in_Comp_Neuro_2024_School-WoodsHole/).
+
+
 Before my PhD, I worked in the **Network Dynamics** (Timme) group at the **Max Planck Institute for Dynamics and Self-Organisation** in Göttingen, after and during my master's on Computational Neuroscience at the University of Göttingen. During my stay there, I developed a method for identifying **synaptic interactions** from neuronal firing patterns based **on a geometric approximation of the inter-spike interval generating function** of each observed neuron ([Casadiego\*, Maoutsa\*, Timme; PRL; 2018](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.054101)[)](https://www.ds.mpg.de/publication-search/148862?person=%2Fpersons%2Fresource%2Fpersons238426)[,](https://ui.adsabs.harvard.edu/abs/2016APS..MARY12004T/abstract) and further studied phase transitions of autonomous intersections[.](https://pure.mpg.de/cone/persons/resource/persons238426?lang=de)
 
 :closed_book: <ins>My Master's thesis resulted in **one co-first author publication**</ins>.\
@@ -41,8 +46,7 @@ I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the
 
  - revealing **structural and functional properties** of brain circuits from their **responses to optogenetic stimulation** [[see more](https://dimitra-maoutsa.github.io/mentor/)].
 
-On **Summer 2024 (Jul. - Aug. 2024)** I had the luck to attend the **Marine Biological Laboratory** training course **Methods in Computational Neuroscience** in Woods Hole. I worked there together with **Dr. Jeff Johnston and Prof. Stefano Fusi** on a project on studying how the dynamical landscape of recurrent neural networks was changing in continual learning settings for different input/output architectures and tasks, and together with the fellow student **Sarah Elnozahy and Prof. Sara Solla** on a mini-project based on the calcium imaging dataset of Sarah on identifying inter-areal interactions between mouse V1 and ACC over learning a predictive task.\
-You can see my presentation [here](https://dimitra-maoutsa.github.io/Methods_in_Comp_Neuro_2024_School-WoodsHole/).
+
 
 ( For more details see [mentoring](https://dimitra-maoutsa.github.io/mentor/) , [projects](https://dimitra-maoutsa.github.io/portfolio/) , and [publications](https://dimitra-maoutsa.github.io/publications/) )
 
