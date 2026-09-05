@@ -10,6 +10,8 @@ More info sooooon....
 
 
 Presented as an **oral presentation at the MCN Summer school - Aug. 2024** [see presention deck here](https://dimitra-maoutsa.github.io/Methods_in_Comp_Neuro_2024_School-WoodsHole/)
+**Supervisors:** Dr. Jeff Johnston and Prof. Stefano Fusi \
+**TAs:** Alan Lai and Yu Wu
 
 The main project was inspired by Omri Barak's talk at the Cosyne 2024 mega-workshop on geometry of representations and his associated paper with Elia Turner.
 
