@@ -4,7 +4,7 @@ collection: publications
 category: conference
 first_author: true
 permalink: /publication/2026-09-24-NeurIPS-RL-lRNN
-excerpt: 'Learning dynamics for reward-driven learning in Recurrent Neural Networks.'
+excerpt: 'Learning dynamics for reward-driven training of Recurrent Neural Networks.'
 date: 2026-09-24
 venue: 'NeurIPS'
 citation: 'Maoutsa, D.(2026). &quot;A dynamical systems theory of reward-modulated learning in linear recurrent networks.&quot; <i>Neural Information Processing Systems</i>.'
