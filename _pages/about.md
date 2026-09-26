@@ -15,7 +15,7 @@ Ongoing projects (as of July 2026) involve:
  - devising a reinforcement learning based method for **discovering plasticity rules for reinforcement training of RNNs** [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio--1/)] [[see here important clarifications](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html)]
  - analysing and modelling **how population activity in visual cortex changes during reward-driven learning** [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio--2/)]
  -  modelling the **contextual reconfiguration** of representations through top-down feedback [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-0b/)]
- -  **theory** on **reward-driven learning** in recurrent networks [see more](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Neurips_accepted_paper.html)
+ -  **theory** on **reward-driven learning** in recurrent networks [[see more](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Neurips_accepted_paper.html)]
 
 For further ongoing directions, please feel free to reach out.
 
