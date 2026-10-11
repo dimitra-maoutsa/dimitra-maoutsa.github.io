@@ -50,7 +50,7 @@ Transactions on Machine Learning Research \
 Entropy
 
 **Conferences:** \
-Neural Information Processing Systems (NeurIPS 2023 & 2025)\
+Neural Information Processing Systems (NeurIPS 2023 & 2025 & 2026)\
 International Conference on Learning Representations (ICLR 2024 & 2026)\
 International Conference on Machine Learning (ICML 2024 & 2025 & 2026)\
 Annual AAAI Conference on Artificial Intelligence (AAAI 2025 & 2026) (also Program Committee member)\
