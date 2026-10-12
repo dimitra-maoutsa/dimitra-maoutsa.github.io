@@ -2,7 +2,7 @@
 title: "Theory on reward-modulated learning in recurrent neural networks"
 excerpt: >-
   started as a postdoc independently (Nov 2025)
-  <br/><img src="/images/teacher-student-RNN.png" alt="Theory for reward-modulated learning in RNNs-Dimitra Maoutsa" width="260" style="display:block; margin:0 auto;" />
+  <br/><img src="/images/teacher-student-RNN.png" alt="Theory for reward-modulated learning in RNNs-Dimitra Maoutsa" width="280" style="display:block; margin:0 auto;" />
 collection: portfolio
 ---
 
