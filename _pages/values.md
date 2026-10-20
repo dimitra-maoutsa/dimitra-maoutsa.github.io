@@ -19,7 +19,8 @@ Unfortunately, over the past years, I’ve learned that integrity isn’t always
 ### I am in general VERY resistant to intimidation or any form of dominance display. Anyone who wants to influence my judgement or my perspective should only try to reason. 
 
 [^1]: You may get some hint by going here [https://clearsky.app/dimma.bsky.social/blocking](https://clearsky.app/dimma.bsky.social/blocking) and scrolling all the way down. Then try looking at past Bernstein conferences and workshops ~2015.
-Realised that clear sky doesn't properly show blocks anymore, so let's fix this. Here is a screenshot of the bottom of my block list and then a screenshot of the bottom of the raw data that shows when the blocks were created ( [https://pdsls.dev/at://did:plc:ytnbaxxlvgjb2hmwxi3hgmiw/app.bsky.graph.block?preview=createdAt](https://pdsls.dev/at://did:plc:ytnbaxxlvgjb2hmwxi3hgmiw/app.bsky.graph.block?preview=createdAt) ). Focus on 25th of November 2024.
+[Edit on 2026] I just realised that clear sky doesn't properly show blocks anymore, so let's fix this. Here is a screenshot of the bottom of my block list and then a screenshot of the bottom of the raw data that shows when the blocks were created ( [https://pdsls.dev/at://did:plc:ytnbaxxlvgjb2hmwxi3hgmiw/app.bsky.graph.block?preview=createdAt](https://pdsls.dev/at://did:plc:ytnbaxxlvgjb2hmwxi3hgmiw/app.bsky.graph.block?preview=createdAt) ). Focus on 25th of November 2024. <img src='/images/blocks.png' alt="blocklist" style="max-width:600px; width:60%;" >
+
 
 
 
