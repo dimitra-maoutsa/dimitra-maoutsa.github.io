@@ -20,7 +20,7 @@ main:
   - title: "Projects"
     url: /portfolio/
     
-  - title: "Publications"
+  - title: "Pubs"
     url: /publications/
 
   - title: "Teaching"
@@ -37,6 +37,9 @@ main:
 
   - title: "Other"
     url: /other/
+
+  - title: "Values"
+    url: /values/
 
   - title: "Workshops"
     url: /workshops/
