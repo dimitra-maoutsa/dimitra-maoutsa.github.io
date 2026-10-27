@@ -39,7 +39,10 @@ Before my PhD, I worked in the **Network Dynamics** (Timme) group at the **Max P
 :closed_book: <ins>My Master's thesis resulted in **one co-first author publication**</ins>.\
 [ [Casadiego\*, Maoutsa\*, Timme; Physical Review Letters; 2018](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.054101)[)](https://www.ds.mpg.de/publication-search/148862?person=%2Fpersons%2Fresource%2Fpersons238426) ]
 
-I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the **Computation in Neural Circuits** lab within the **School of Life Sciences** at Technical University of Munich working on topics relating **structure and function of neural circuits**. During that time I worked on identifying potential circuit mechanisms and design constraints that explain the differential representation of familiar and novel stimuli in layer 2/3 mouse V1 [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-1/)], and (co-)supervised **three Master’s students** working on: 
+I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the **Computation in Neural Circuits** lab within the **School of Life Sciences** at Technical University of Munich working on topics relating **structure and function of neural circuits**. During that time I worked on identifying potential circuit mechanisms and design constraints that explain the differential representation of familiar and novel stimuli in layer 2/3 mouse V1 [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-1/)]. Some veery scattered simulation results here: [https://osf.io/eq9cv/overview](https://osf.io/eq9cv/overview)  (click in the folders that appear to have 0KB, they have content)
+and some code [https://osf.io/74enf/overview](https://osf.io/74enf/overview)
+
+I also (co-)supervised **three Master’s students** working on: 
 
  - identifying **biologically plausible plasticity rules** for learning tasks with **low-dimensional representations** in the neuronal activity space [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-2/)], [ important to read ](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Three_factor_rules.html)
 
