@@ -40,7 +40,7 @@ Before my PhD, I worked in the **Network Dynamics** (Timme) group at the **Max P
 [ [Casadiego\*, Maoutsa\*, Timme; Physical Review Letters; 2018](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.054101)[)](https://www.ds.mpg.de/publication-search/148862?person=%2Fpersons%2Fresource%2Fpersons238426) ]
 
 I made a short stint of ~1 year (July 2023 - Sept. 2024)[^3] as a postdoc at the **Computation in Neural Circuits** lab within the **School of Life Sciences** at Technical University of Munich working on topics relating **structure and function of neural circuits**. During that time I worked on identifying potential circuit mechanisms and design constraints that explain the differential representation of familiar and novel stimuli in layer 2/3 mouse V1 [[see more](https://dimitra-maoutsa.github.io/portfolio/portfolio-1/)]. Some veery scattered simulation results here: [https://osf.io/eq9cv/overview](https://osf.io/eq9cv/overview)  (click in the folders that appear to have 0KB, they have content)
-and some code [https://osf.io/74enf/overview](https://osf.io/74enf/overview)
+and some code [https://osf.io/74enf/overview](https://osf.io/74enf/overview) (see the upload date for these files!)
 
 I also (co-)supervised **three Master’s students** working on: 
 
