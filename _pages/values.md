@@ -24,7 +24,7 @@ Unfortunately, over the past years, I’ve learned that integrity isn’t always
 Focus on 25th of November 2024. \
 <img src='/images/image_block.png' alt="blocklist" style="max-width:600px; width:60%;" >\
 And then check who was the PhD advisor of the organiser of this Bernstein 2015 workshop <img src='/images/image_BS2015.png' alt="blocklist" style="max-width:600px; width:60%;" > \
-and then ask to find out whether that advisor offered to any one of the speakers a professorship shortly after the workshop, that they might have used to negotiate the PI position they officially got around that time, and then you may get an answer who protects the interests of whom and who forwards information to whom. Read also this post: [https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Wayback.html](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Wayback.html)
+and then ask to find out whether that advisor offered to any one of the speakers a professorship shortly after the workshop, that they might have used to negotiate the PI position they officially got around that time, and then you may get an answer of **who protects the interests of whom and who forwards information to whom**. Read also this post: [https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Wayback.html](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Wayback.html)
 
 
 
