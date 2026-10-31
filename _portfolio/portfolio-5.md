@@ -32,4 +32,5 @@ and as a **poster** at:
 - Recent advances in understanding Artificial and Biological Neural Networks, École de physique des Houches, Les Houghes, Feb. 2023
 - ICLR 2023 - Physics for machine learning workshop ([see related short paper](https://arxiv.org/abs/2304.00423))
 - ICLR 2026 - Geometry grounded representation learning and generative modelling  ([see here related paper and posster](https://iclr.cc/virtual/2026/10012735))
+- ICML 2026 - main conference --- read also here details concerning this presentation [on bluesky post](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Wayback.html)
   
