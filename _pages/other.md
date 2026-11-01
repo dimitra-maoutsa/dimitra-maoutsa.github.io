@@ -36,7 +36,7 @@ If you are not a member you should become one [ALBA](https://www.alba.network/)
 - [Shuai Shao](https://scholar.google.com/citations?hl=en&user=M5KlS1lnQn8C&view_op=list_works&sortby=pubdate) : Extremely talented researcher, with **savage-level mathematical skills**. He didn’t have an easy time finishing his PhD, definitely not due to a lack of skill. ;)
 - [Judith H. Parkinson-Schwarz](https://scholar.google.de/citations?hl=en&user=B5Otem8AAAAJ&view_op=list_works&sortby=pubdate) : former postdoc at the school of Life Sciences, TUM
 - [Paloma P Maldonado](https://scholar.google.com/citations?hl=en&user=yHuGFfYAAAAJ&view_op=list_works&sortby=pubdate) : short term postdoc at the school of Life Sciences, TUM
-
+- Sebastian Onasch: Former PhD student at TUM. Spent months to compile the materials (slides and python notebooks) used for the Computational Neuroscience lecture, wrote almost an entire ERC grant by himself because the topic of the grant was the topic of his PhD, but when he submitted his PhD thesis towards the end of 2024, he had to wait for **9 months** (!) for his professor to even accept it! In the meanwhile the professor could squeeze 9 months of unpaid labor of a person who wanted to graduate and move on.
 
 
 
