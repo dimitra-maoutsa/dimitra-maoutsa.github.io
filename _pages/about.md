@@ -19,6 +19,8 @@ Ongoing projects (as of July 2026) involve:
 
 For further ongoing directions, please feel free to reach out.
 
+Visit my bluesky profile here [dimma](https://bsky.app/profile/dimma.bsky.social)
+
 :closed_book: <ins>From the current projects I have **a single author publication** [[Maoutsa,to appear at NeurIPS; 2026](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Neurips_accepted_paper.html)], **a last author micro-publication** [[Madrid-Carvajal, J., et al.; 2026](https://zenodo.org/records/21364412)], and I am currently preparing
 **another first author publication**</ins> with a very preliminary pre-print here: [[Maoutsa, NeurReps workshop - NeurIPS; 2025](https://arxiv.org/abs/2512.09366)].
 
