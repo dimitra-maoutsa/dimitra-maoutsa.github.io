@@ -14,10 +14,13 @@ Tutorials on spike-timing dependent plasticity, rate-based plasticity and networ
 
 Prepared and presented exercise tutorials (analytical & computational) on spike-timing dependent plasticity, rate-based plasticity and network dynamics
 
-Presented 3 (1.5h/week) tutorials
+Presented 3 (1.5h/week) tutorials - the 2 tutorials were the two exercises and the python notebooks visible the Lecture structure etc link below, and the third 
+was a blackboard derivation on Hebbian vs BCM converge if I remember correctly.
 
 
 [Exc.I](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Exercise_I___Gjorgjieva_lecture-1.pdf)
 [Exc.II](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Exercise_II___Gjorgjieva_lecture-1.pdf)
 
+[Lecture structure etc](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/LMU_lecture_proof.pdf)
 
+[Email from above with links to upload material](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Fwd%3A%20WP8%20Mathematical%20Models%20of%20Neural%20Systems%20and%20Cognitive%20Functions%20SS2024%20copy.pdf)
