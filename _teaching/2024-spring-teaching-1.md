@@ -31,9 +31,9 @@ Since I have to take all precautions, here is a screen recording of me navigatin
 
 
 
-<img src='/images/message_to_student_1.png' alt="What was the talk about" style="max-width:400px; width:80%;" >
+<img src='/images/message_to_student_1.png' alt="What was the talk about" style="max-width:400px; width:70%;" >
 
 
-<img src='/images/message_to_student_2.png' alt="What was the talk about" style="max-width:400px; width:80%;" >
+<img src='/images/message_to_student_2.png' alt="What was the talk about" style="max-width:400px; width:70%;" >
 
-<img src='/images/message_to_student_3.png' alt="What was the talk about" style="max-width:400px; width:80%;" >
+<img src='/images/message_to_student_3.png' alt="What was the talk about" style="max-width:400px; width:70%;" >
