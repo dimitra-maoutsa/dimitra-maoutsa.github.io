@@ -27,3 +27,13 @@ was a blackboard derivation on Hebbian vs BCM converge if I remember correctly.
 
 Since I have to take all precautions, here is a screen recording of me navigating the lecture material folder: 
 [mov file probably not viewable here but should download](https://raw.githubusercontent.com/dimitra-maoutsa/dimitra-maoutsa.github.io/refs/heads/master/files/Screen%20Recording2026.11.11.LMUlecture.mov)
+
+
+
+
+<img src='/images/message_to_student_1.png' alt="What was the talk about" style="max-width:300px; width:60%;" >
+
+
+<img src='/images/message_to_student_2.png' alt="What was the talk about" style="max-width:300px; width:60%;" >
+
+<img src='/images/message_to_student_3.png' alt="What was the talk about" style="max-width:300px; width:60%;" >
