@@ -26,7 +26,6 @@ I wish I wouldn't have to provide this sort of proof but alas
 
 <img src='/images/Intro_to_comp_neuro_TA4.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
 
-
 <img src='/images/Intro_to_comp_neuro_TA5.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
 
 <img src='/images/Intro_to_comp_neuro_TA6.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
