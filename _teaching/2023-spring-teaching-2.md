@@ -17,3 +17,16 @@ Time commitment: >1.5 h/week
 
 
 
+
+<img src='/images/Intro_to_comp_neuro_TA1.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
+
+<img src='/images/Intro_to_comp_neuro_TA2.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
+
+<img src='/images/Intro_to_comp_neuro_TA3.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
+
+<img src='/images/Intro_to_comp_neuro_TA4.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
+
+
+
+
+
