@@ -16,7 +16,7 @@ Time commitment: >1.5 h/week
 <img src='/images/Comp_Neuro_Exam_Schedule-2024.png'>  
 
 
-
+I wish I wouldn't have to provide this sort of proof but alas
 
 <img src='/images/Intro_to_comp_neuro_TA1.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
 
@@ -25,6 +25,15 @@ Time commitment: >1.5 h/week
 <img src='/images/Intro_to_comp_neuro_TA3.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
 
 <img src='/images/Intro_to_comp_neuro_TA4.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
+
+
+<img src='/images/Intro_to_comp_neuro_TA5.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
+
+<img src='/images/Intro_to_comp_neuro_TA6.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
+
+<img src='/images/Intro_to_comp_neuro_TA7.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
+
+<img src='/images/Intro_to_comp_neuro_TA8.png' alt="Lecture slack" style="max-width:400px; width:70%;" >
 
 
 
