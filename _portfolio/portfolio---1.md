@@ -10,4 +10,10 @@ We study learning dynamics with local reward-modulated plasticity rules both in 
 
 The first part of this work on linear RNNs has been accepted in NeurIPS 2026 main conference and will appear soon online [see here](https://dimitra-maoutsa.github.io/M-Dims-Blog/posts/Neurips_accepted_paper.html).
 
+<img src='/images/07_s7.png' alt="RL-lRNN summary slide -- Dimitra Maoutsa -- Reward-gated learning dynamics" style="max-width:600px; width:60%;" >
+
+
+
+
+
 Extensions on this work and theory on reward-modulated learning in nonlinear RNNs will appear here and online as they become ready. Stay tuned!
