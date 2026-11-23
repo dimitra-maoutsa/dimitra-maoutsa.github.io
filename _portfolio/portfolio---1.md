@@ -17,4 +17,4 @@ See here the project page (_still under construction but somewhat more informati
 
 
 
-Extensions on this work on more complicated settings and work on theory on reward-modulated learning in nonlinear RNNs will appear here and online as they become ready. Stay tuned!
+Extensions of this work on more complicated settings and work on theory on reward-modulated learning in nonlinear RNNs will appear here and online as they become ready. Stay tuned!
