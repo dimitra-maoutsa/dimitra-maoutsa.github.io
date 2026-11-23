@@ -39,4 +39,6 @@ gence of prediction errors in V1 based on the Allen Institute Calcium imaging be
 
 - **John Madrid Carvajal, Katja Kaurinkoski, Ishatpreet Singh, Rohit Jeswanth**: (**Neuromatch Impact Scholars program**) The team worked on analysing a calcium imaging dataset of mice performing a visual task probing the effect of **rewarded-driven vs. experience-driven changes in visual cortex**. The team employed **tensor component analysis** and proposed hypotheses on **how reward influences neural population geometry** in the mouse visual cortex. Resulted in a [micropublication](https://zenodo.org/records/20626344) . \
   **[completed: Oct. 2025 - May 2026] online/Neuromatch** 
-  
+
+
+- **Preeti Lamba**: (**NeurIPS affinity mentorship program**): career and presentation mentoring through the NeurIPS affinity program
