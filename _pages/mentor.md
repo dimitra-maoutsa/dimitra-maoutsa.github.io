@@ -41,5 +41,5 @@ gence of prediction errors in V1 based on the Allen Institute Calcium imaging be
   **[completed: Oct. 2025 - May 2026] online/Neuromatch** 
 
 
-- **Preeti Lamba**: (**NeurIPS affinity mentorship program**): career and presentation mentoring through the NeurIPS affinity program
+- **Preeti Lamba**: (**NeurIPS affinity mentorship program**): career and presentation mentoring through the NeurIPS affinity program \
   **[Oct. 2026 - ongoing] online/NeurIPS**
